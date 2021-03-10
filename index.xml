@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <link>/publication/dsac/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/dsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -107,6 +115,22 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
+      <link>/publication/mappo/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mappo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
+      <link>/publication/minmax_dsac/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/minmax_dsac/</guid>
+      <description></description>
     </item>
     
     <item>
