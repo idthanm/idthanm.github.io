@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | YANG GUAN - TSINGHUA</title>
+    <link>/tag/reinforcement-learning/</link>
+      <atom:link href="/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Driving AI with Highly Efficient Online Computation and Self-evolution Ability</title>
+      <link>/project/interpretable/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/interpretable/</guid>
+      <description>&lt;p&gt;The project aims to build an interpretable self-learning driving system by RL, for the real-time decision and control of automated vehicles.
+My works: 1) Formulated a general integrated decision and control framework, which utilizes RL as a way to solve constrained optimal control problems (OCP), and thus makes the output interpretable in the sense that it is the approximate solution of the OCP. The framework is promising to promote RL applications in real-world autonomous driving tasks. 2) Proposed a model-based RL algorithm for approximately solving large-scale constrained OCPs, where a generalized exterior point method is employed to find a feasible neural solution. 3) Carried out experiments both in simulation and in real world, yielding the best performance in terms of computing efficiency 10x and safety 100x compared with baseline methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of RL Library with High-throughput and Scalable Learning Architecture</title>
+      <link>/project/mpg/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mpg/</guid>
+      <description>&lt;p&gt;This project aims to develop a highly modularized and extensible RL library, with the ability of scaling to use hundreds of CPU cores for the high-throughput sampling, storing and updating.
+My works: 1) Summarised common procedures in different RL algorithms, according to that, abstracted the library by Worker, Learner, Buffer, Optimizer, Evaluator, Tester, and Trainer. Each has a certain functionality with clearly designed interface. 2) Proposed a general high-throughput and scalable learning architecture, which organizes arbitrary numbers of Workers, Learners, Buffers, and Evaluators in parallel, each with a CPU core, to enhance the sampling, learning, and replaying efficiency. 3) Developed the library by Tensorflow and Ray, which contains a cluster of state-of-the-art algorithm implementations, including MPG, DSAC, DDPG, ADP, TD3, SAC, PPO, TRPO.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Driving AI: Centralized Decision and Control for Multiple Vehicles at Crossroad by RL</title>
+      <link>/project/centralized/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/centralized/</guid>
+      <description>&lt;p&gt;This project aims to develop a centralized coordination scheme of automated vehicles at an intersection without traffic signals using RL to address low computation efficiency suffered by current centralized coordination methods.
+My works: 1) Proposed model accelerated proximal policy optimization algorithm, which incorporates a prior model into PPO to facilitate sample efficiency. 2) Designed state with minimal length, and simplified reward function under consideration of safety, efficiency and task completion. The computing efficiency and traffic efficiency are respectively 400 times and 4.5 times higher that those of the baseline method based on MPC.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
