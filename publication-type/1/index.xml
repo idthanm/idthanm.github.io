@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | YANG GUAN - TSINGHUA</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://idthanm.github.io/publication-type/1/</link>
+      <atom:link href="https://idthanm.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://idthanm.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
-      <link>/publication/rf/</link>
+      <link>https://idthanm.github.io/publication/rf/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/rf/</guid>
+      <guid>https://idthanm.github.io/publication/rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>
-      <link>/publication/spil/</link>
+      <link>https://idthanm.github.io/publication/spil/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/spil/</guid>
+      <guid>https://idthanm.github.io/publication/spil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steadily Learn to Drive with Virtual Memory</title>
-      <link>/publication/lvm/</link>
+      <link>https://idthanm.github.io/publication/lvm/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/lvm/</guid>
+      <guid>https://idthanm.github.io/publication/lvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>/publication/ccac/</link>
+      <link>https://idthanm.github.io/publication/ccac/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ccac/</guid>
+      <guid>https://idthanm.github.io/publication/ccac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>/publication/minmax_dsac/</link>
+      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/minmax_dsac/</guid>
+      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>/publication/ternary/</link>
+      <link>https://idthanm.github.io/publication/ternary/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ternary/</guid>
+      <guid>https://idthanm.github.io/publication/ternary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
-      <link>/publication/hier/</link>
+      <link>https://idthanm.github.io/publication/hier/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/hier/</guid>
+      <guid>https://idthanm.github.io/publication/hier/</guid>
       <description></description>
     </item>
     

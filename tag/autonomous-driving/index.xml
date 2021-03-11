@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autonomous Driving | YANG GUAN - TSINGHUA</title>
-    <link>/tag/autonomous-driving/</link>
-      <atom:link href="/tag/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://idthanm.github.io/tag/autonomous-driving/</link>
+      <atom:link href="https://idthanm.github.io/tag/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Driving</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
       <title>Autonomous Driving</title>
-      <link>/tag/autonomous-driving/</link>
+      <link>https://idthanm.github.io/tag/autonomous-driving/</link>
     </image>
     
     <item>
       <title>Interpretable Driving AI with Highly Efficient Online Computation and Self-evolution Ability</title>
-      <link>/project/interpretable/</link>
+      <link>https://idthanm.github.io/project/interpretable/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/interpretable/</guid>
+      <guid>https://idthanm.github.io/project/interpretable/</guid>
       <description>&lt;p&gt;The project aims to build an interpretable self-learning driving system by RL, for the real-time decision and control of automated vehicles.
 My works: 1) Formulated a general integrated decision and control framework, which utilizes RL as a way to solve constrained optimal control problems (OCP), and thus makes the output interpretable in the sense that it is the approximate solution of the OCP. The framework is promising to promote RL applications in real-world autonomous driving tasks. 2) Proposed a model-based RL algorithm for approximately solving large-scale constrained OCPs, where a generalized exterior point method is employed to find a feasible neural solution. 3) Carried out experiments both in simulation and in real world, yielding the best performance in terms of computing efficiency 10x and safety 100x compared with baseline methods.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ My works: 1) Formulated a general integrated decision and control framework, whi
     
     <item>
       <title>Driving AI: Centralized Decision and Control for Multiple Vehicles at Crossroad by RL</title>
-      <link>/project/centralized/</link>
+      <link>https://idthanm.github.io/project/centralized/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/centralized/</guid>
+      <guid>https://idthanm.github.io/project/centralized/</guid>
       <description>&lt;p&gt;This project aims to develop a centralized coordination scheme of automated vehicles at an intersection without traffic signals using RL to address low computation efficiency suffered by current centralized coordination methods.
 My works: 1) Proposed model accelerated proximal policy optimization algorithm, which incorporates a prior model into PPO to facilitate sample efficiency. 2) Designed state with minimal length, and simplified reward function under consideration of safety, efficiency and task completion. The computing efficiency and traffic efficiency are respectively 400 times and 4.5 times higher that those of the baseline method based on MPC.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ My works: 1) Proposed model accelerated proximal policy optimization algorithm, 
     
     <item>
       <title>Automatic Decision Making and Planning at Crossroad</title>
-      <link>/project/planning/</link>
+      <link>https://idthanm.github.io/project/planning/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/project/planning/</guid>
+      <guid>https://idthanm.github.io/project/planning/</guid>
       <description>&lt;p&gt;The project aims at designing an automatic decision making system for intelligent vehicle at a typical crossroad.
 My work focuses on decision making module design and implementation (by C++), mainly including behavior recognition of surrounding vehicles, decision of local driving target, and trajectory planning. Surrounding vehicles behavior recognition is achieved by a HMM model, which defines vehicle&amp;rsquo;s behavior as hidden state and infers probability distribution of behaviors every time step. Local driving target is decided by carefully designed rules, and its result is used for trajectory planning, which is realized by an algorithm based on DAG and A*.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | YANG GUAN - TSINGHUA</title>
-    <link>/tag/academic/</link>
-      <atom:link href="/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://idthanm.github.io/tag/academic/</link>
+      <atom:link href="https://idthanm.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>/tag/academic/</link>
+      <link>https://idthanm.github.io/tag/academic/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://idthanm.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://idthanm.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
