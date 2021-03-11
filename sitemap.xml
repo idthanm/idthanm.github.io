@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/rf/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/sdsac/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/dsac/</loc>
@@ -22,6 +31,15 @@
   </url><url>
     <loc>/publication/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/mpg/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/spil/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/lvm/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -47,8 +65,23 @@
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/ccac/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/di_indi/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/autonomous-driving/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/interpretable/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/reinforcement-learning/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/mappo/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
@@ -56,23 +89,35 @@
     <loc>/publication/minmax_dsac/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/ternary/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/hier/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/xinlong/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/mpg/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/centralized/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/av_survey/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/publication/mpd/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/project/planning/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
   </url>
