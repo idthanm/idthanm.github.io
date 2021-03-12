@@ -5,9 +5,9 @@
     <link>https://idthanm.github.io/project/</link>
       <atom:link href="https://idthanm.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://idthanm.github.io/project/</link>
     </image>

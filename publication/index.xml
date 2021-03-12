@@ -5,9 +5,9 @@
     <link>https://idthanm.github.io/publication/</link>
       <atom:link href="https://idthanm.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021 Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://idthanm.github.io/publication/</link>
     </image>
@@ -130,6 +130,16 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/av_survey/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://idthanm.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/preprint/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

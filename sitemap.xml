@@ -2,28 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://idthanm.github.io/talk/example-talk/</loc>
+    <loc>https://idthanm.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/event/</loc>
+    <loc>https://idthanm.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/publication-type/1/</loc>
+    <loc>https://idthanm.github.io/authors/admin/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/publication-type/2/</loc>
+    <loc>https://idthanm.github.io/publication_types/1/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/publication_types/2/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/rf/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/bingbing-nie/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/bo-cheng/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/sdsac/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/dsac/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/haitong-ma/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/jianyu-chen/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/jie-li/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/jingliang-duan/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/kaiming-tang/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/cfb/</loc>
@@ -35,6 +71,33 @@
     <loc>https://idthanm.github.io/publication/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://idthanm.github.io/authors/qi-sun/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/shengbo-eben-li/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/sifa-zheng/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/wenhan-cao/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/yangang-ren/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/yiting-kong/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/yuming-yin/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/ziyu-lin/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/baiyu-peng/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idthanm.github.io/publication/mpg/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,29 +107,14 @@
     <loc>https://idthanm.github.io/publication/lvm/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://idthanm.github.io/authors/yao-mu/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://idthanm.github.io/authors/yuhang-zhang/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idthanm.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idthanm.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idthanm.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idthanm.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://idthanm.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://idthanm.github.io/authors/yujie-yang/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/ccac/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
@@ -74,7 +122,7 @@
     <loc>https://idthanm.github.io/publication/di_indi/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/tag/autonomous-driving/</loc>
+    <loc>https://idthanm.github.io/tags/autonomous-driving/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/project/interpretable/</loc>
@@ -83,7 +131,10 @@
     <loc>https://idthanm.github.io/project/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/tag/reinforcement-learning/</loc>
+    <loc>https://idthanm.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/tags/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/mappo/</loc>
@@ -92,7 +143,16 @@
     <loc>https://idthanm.github.io/publication/minmax_dsac/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://idthanm.github.io/authors/keqiang-li/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/laiquan-luo/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idthanm.github.io/publication/ternary/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/wenyu-li/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/publication/hier/</loc>
@@ -101,14 +161,59 @@
     <loc>https://idthanm.github.io/publication/xinlong/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://idthanm.github.io/authors/long-xin/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/masayoshi-tomizuka/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idthanm.github.io/project/mpg/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/project/centralized/</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://idthanm.github.io/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/hongbo-gao/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/jun-li/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idthanm.github.io/publication/av_survey/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/lian-hou/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/shuang-liang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/wei-ren/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/authors/yu-wang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://idthanm.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -119,9 +224,22 @@
     <loc>https://idthanm.github.io/publication/mpd/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://idthanm.github.io/authors/wenjun-wang/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://idthanm.github.io/project/planning/</loc>
     <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://idthanm.github.io/admin/</loc>
+    <loc>https://idthanm.github.io/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://idthanm.github.io/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,18 +1,13 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<html lang="en-us">
 
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  
-  
-  
-    <meta name="generator" content="Wowchemy 5.0.0-beta.3 for Hugo" />
-  
 
-  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
-  
   
 
   
@@ -26,43 +21,25 @@
   
   
 
-  <meta name="author" content="Yang Guan" />
+  <meta name="author" content="Yang Guan">
 
   
   
   
     
   
-  <meta name="description" content="Safety constraints are essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Most existing RL methods with chance constraints have a low convergence rate, and only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by an aggressive car-following task. Experiments indicate that compared with previous methods, CCAC improves the performance by 57.6% while guaranteeing safety, with a five times faster convergence rate." />
+  <meta name="description" content="Safety constraints are essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Most existing RL methods with chance constraints have a low convergence rate, and only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by an aggressive car-following task. Experiments indicate that compared with previous methods, CCAC improves the performance by 57.6% while guaranteeing safety, with a five times faster convergence rate.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/ccac/" />
-
-  
-
-
-
-
-
-
+  <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/ccac/">
 
   
 
 
-
-
-  
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  
-
   
   
   
-    <meta name="theme-color" content="#3f51b5" />
-  
-
-  
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -70,13 +47,9 @@
   
   
     
-    
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-
-    
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -87,176 +60,31 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    
-    
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
-    
-      
-      
 
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-        
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
   
 
   
   
   
-    
-      
-      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
-    
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
   
-  
-  <link rel="stylesheet" href="/css/wowchemy.1717b39fb54679e83fc969bf276146a5.css" />
-
-  
-
-
-
-  
-
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
@@ -264,24 +92,16 @@
 
 
   
-  
-  
+
 
   
 
-  
-    <link rel="manifest" href="/index.webmanifest" />
-  
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="icon" type="image/png" href="/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_180x180_fill_lanczos_center_2.png" />
+  <link rel="canonical" href="https://idthanm.github.io/publication/ccac/">
 
-  <link rel="canonical" href="https://idthanm.github.io/publication/ccac/" />
-
-  
-  
-  
-  
   
   
   
@@ -290,19 +110,16 @@
     
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="YANG GUAN - TSINGHUA" />
-  <meta property="og:url" content="https://idthanm.github.io/publication/ccac/" />
-  <meta property="og:title" content="Model-Based Actor-Critic with Chance Constraint for Stochastic System | YANG GUAN - TSINGHUA" />
-  <meta property="og:description" content="Safety constraints are essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Most existing RL methods with chance constraints have a low convergence rate, and only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by an aggressive car-following task. Experiments indicate that compared with previous methods, CCAC improves the performance by 57.6% while guaranteeing safety, with a five times faster convergence rate." /><meta property="og:image" content="https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
+  <meta property="og:url" content="https://idthanm.github.io/publication/ccac/">
+  <meta property="og:title" content="Model-Based Actor-Critic with Chance Constraint for Stochastic System | YANG GUAN - TSINGHUA">
+  <meta property="og:description" content="Safety constraints are essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Most existing RL methods with chance constraints have a low convergence rate, and only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by an aggressive car-following task. Experiments indicate that compared with previous methods, CCAC improves the performance by 57.6% while guaranteeing safety, with a five times faster convergence rate."><meta property="og:image" content="https://idthanm.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://idthanm.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta
-        property="article:published_time"
-        content="2021-03-01T00:00:00&#43;00:00"
-      />
+      <meta property="article:published_time" content="2021-03-01T00:00:00&#43;00:00">
     
     <meta property="article:modified_time" content="2020-12-01T00:00:00&#43;00:00">
   
@@ -311,6 +128,8 @@
 
 
     
+
+
 
 
 
@@ -343,7 +162,7 @@
     "name": "YANG GUAN - TSINGHUA",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_192x192_fill_lanczos_center_2.png"
+      "url": "https://idthanm.github.io/img/icon-512.png"
     }
   },
   "description": "Safety constraints are essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Most existing RL methods with chance constraints have a low convergence rate, and only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by an aggressive car-following task. Experiments indicate that compared with previous methods, CCAC improves the performance by 57.6% while guaranteeing safety, with a five times faster convergence rate."
@@ -354,7 +173,9 @@
 
   
 
+
   
+
 
   
 
@@ -363,25 +184,12 @@
 
 
   <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System | YANG GUAN - TSINGHUA</title>
+
 </head>
 
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="69094b0462aaf8bd11c412463b909033" >
-
-  
-  
-  
-  
-  
-  
-  
-  
-  <script src="/js/wowchemy-init.min.b024895df05e271929739bb54886c674.js"></script>
-
-  
-
-
-<aside class="search-modal" id="search">
+  <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -390,22 +198,16 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
-        aria-label="Search...">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
-
-      
-      
-
-      
 
     </section>
     <section class="section-search-results">
@@ -419,23 +221,10 @@
 </aside>
 
 
-
-  <div class="page-header">
-    
-
-
-
-
-
-
-
-
-
-
-
+  
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container-xl">
+  <div class="container">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -473,24 +262,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -510,18 +291,10 @@
         
 
         
-
         
         
         
         
-
-        
-          
-            
-            
-          
-          
         
 
         <li class="nav-item">
@@ -540,24 +313,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -577,24 +342,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -614,24 +371,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -651,24 +400,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -688,24 +429,16 @@
         
 
         
-
         
         
         
         
-
         
           
-            
-            
           
           
             
-            
-            
-              
-            
-            
+          
           
         
 
@@ -723,19 +456,18 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-
       
-      
-        
-      
-
-      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
-      
       
 
     </ul>
@@ -744,19 +476,7 @@
 </nav>
 
 
-  </div>
-
-  <div class="page-body">
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+  <div class="pub">
 
   
 
@@ -794,13 +514,11 @@
   <div>
     
 
-  <span >
-      Baiyu Peng</span>, <span >
-      Yao Mu</span>, <span >
-      Yang Guan</span>, <span >
-      Shengbo Eben Li</span>, <span >
-      Yuming Yin</span>, <span >
-      Jianyu Chen</span>
+
+
+  
+  <span>Baiyu Peng</span>, <span>Yao Mu</span>, <span>Yang Guan</span>, <span>Shengbo Eben Li</span>, <span>Yuming Yin</span>, <span>Jianyu Chen</span>
+
   </div>
   
   
@@ -822,9 +540,6 @@
   
   
   
-  
-  
-  
 
   
   
@@ -833,6 +548,17 @@
 
     
 
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
@@ -853,6 +579,11 @@
 
 
 
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/ccac/cite.bib">
+  Cite
+</button>
+
 
 
 
@@ -877,7 +608,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2012.10716.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2012.10716.pdf" target="_blank" rel="noopener">
     
     Preprint
   </a>
@@ -896,7 +627,7 @@
       
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="/citations/ccac.bib" >
+  <a class="btn btn-outline-primary my-1 mr-1" href="/citations/ccac.bib" >
     
     Cite
   </a>
@@ -918,16 +649,18 @@
     
 
     
-    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
+            
+            
             <a href="/publication/#1">
               Conference paper
             </a>
+            
           </div>
         </div>
       </div>
@@ -976,122 +709,26 @@
   
   
     
+  
+  
+
+
 
 
 
 
   
-    
-
-
-
-
-  
-    
-
-
-
-  
-  
-  
-    
   
   
   
   <div class="media author-card content-widget-hr">
     
-      
-      <a href="https://idthanm.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hudaddb476bac7aa5e31ea427be64e76f5_146943_270x270_fill_lanczos_center_2.png" alt="Yang Guan"></a>
-    
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://idthanm.github.io/">Yang Guan</a></h5>
-      <h6 class="card-subtitle">Ph.D student</h6>
-      <p class="card-text">My research interests include advanced technologies in reinforcement learning and autonomous driving.</p>
+      <h5 class="card-title"><a href="/authors/baiyu-peng/"></a></h5>
+      
+      
       <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/#contact" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=b6vbCzMAAAAJ" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/idthanm" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.researchgate.net/profile/Yang-Guan-8" target="_blank" rel="noopener">
-        <i class="fab fa-researchgate"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/yang-guan-74b963120/" target="_blank" rel="noopener">
-        <i class="fab fa-linkedin"></i>
-      </a>
-    </li>
   
 </ul>
 
@@ -1099,32 +736,6 @@
   </div>
 
 
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-
-
-
-
-
-
-
 
 
 
@@ -1134,55 +745,147 @@
 
   
   
-
-
 
 
 
   </div>
 </div>
-  </div>
 
-  <div class="page-footer">
+      
+
     
     
-    <div class="container">
-      <footer class="site-footer">
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.ad3fa4a5d654806a06481ef620849c1b.js"></script>
+
+    
+
+
+
+
+
 
   
-
+  
+  <div class="container">
+    <footer class="site-footer">
   
 
   <p class="powered-by">
-    ©2021 Yang Guan
-  </p>
+    &amp;copy{2021} Yang Guan &middot; 
 
-  
-  
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-
-
-
-
-
-  <p class="powered-by">
     
-    
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
     
   </p>
 </footer>
 
-    </div>
-    
   </div>
+  
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -1209,105 +912,6 @@
     </div>
   </div>
 </div>
-
-      
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
-
-      
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      
-
-      
-      
-
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
-        
-      
-
-    
-
-    
-    
-    
-
-    
-    
-
-    
-    
-    
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
-        </div>
-      </script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-      
-    
-
-    
-    
-
-    
-    
-    
-    
-
-    <script src="/js/_vendor/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
-
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.f3e5a2ed0c33ddcaef88a720b0abe966.js"></script>
-
-    
-
-
-
-
-
 
 </body>
 </html>
