@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenjun Wang | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/wenjun-wang/</link>
+      <atom:link href="https://idthanm.github.io/authors/wenjun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenjun Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Wenjun Wang</title>
+      <link>https://idthanm.github.io/authors/wenjun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Markov probabilistic decision making of self-driving cars in highway with random traffic flow: a simulation study</title>
+      <link>https://idthanm.github.io/publication/mpd/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

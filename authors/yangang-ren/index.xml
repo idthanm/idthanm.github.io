@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yangang Ren | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/yangang-ren/</link>
+      <atom:link href="https://idthanm.github.io/authors/yangang-ren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yangang Ren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Yangang Ren</title>
+      <link>https://idthanm.github.io/authors/yangang-ren/</link>
+    </image>
+    
+    <item>
+      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <link>https://idthanm.github.io/publication/dsac/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
+      <link>https://idthanm.github.io/publication/cfb/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/cfb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct and indirect reinforcement learning</title>
+      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
+      <link>https://idthanm.github.io/publication/mappo/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/mappo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
+      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

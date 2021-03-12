@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Xin | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/long-xin/</link>
+      <atom:link href="https://idthanm.github.io/authors/long-xin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Xin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Long Xin</title>
+      <link>https://idthanm.github.io/authors/long-xin/</link>
+    </image>
+    
+    <item>
+      <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</title>
+      <link>https://idthanm.github.io/publication/xinlong/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/xinlong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

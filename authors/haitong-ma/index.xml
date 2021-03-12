@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haitong Ma | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/haitong-ma/</link>
+      <atom:link href="https://idthanm.github.io/authors/haitong-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haitong Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Haitong Ma</title>
+      <link>https://idthanm.github.io/authors/haitong-ma/</link>
+    </image>
+    
+    <item>
+      <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
+      <link>https://idthanm.github.io/publication/cfb/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/cfb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

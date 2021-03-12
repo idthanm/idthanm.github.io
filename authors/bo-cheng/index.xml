@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Cheng | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/bo-cheng/</link>
+      <atom:link href="https://idthanm.github.io/authors/bo-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Bo Cheng</title>
+      <link>https://idthanm.github.io/authors/bo-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <link>https://idthanm.github.io/publication/dsac/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Policy Gradient</title>
+      <link>https://idthanm.github.io/publication/mpg/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/mpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct and indirect reinforcement learning</title>
+      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
+      <link>https://idthanm.github.io/publication/hier/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/hier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key technique of deep neural network and its applications in autonomous driving</title>
+      <link>https://idthanm.github.io/publication/av_survey/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/av_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov probabilistic decision making of self-driving cars in highway with random traffic flow: a simulation study</title>
+      <link>https://idthanm.github.io/publication/mpd/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

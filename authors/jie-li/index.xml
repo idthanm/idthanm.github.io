@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Li | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/jie-li/</link>
+      <atom:link href="https://idthanm.github.io/authors/jie-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jie Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Jie Li</title>
+      <link>https://idthanm.github.io/authors/jie-li/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
+      <link>https://idthanm.github.io/publication/rf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/rf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Policy Gradient</title>
+      <link>https://idthanm.github.io/publication/mpg/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/mpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct and indirect reinforcement learning</title>
+      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
+      <link>https://idthanm.github.io/publication/ternary/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/ternary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
