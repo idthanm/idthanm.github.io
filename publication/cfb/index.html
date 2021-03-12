@@ -33,10 +33,10 @@
   
     
   
-  <meta name="description" content="Trajectory planning is of vital importance to decision-making for autonomous vehicles. Currently, there are three popular classes of cost-based trajectory planning methods: sampling-based, graph-search-based, and optimization-based. However, each of them has its own shortcomings, for example, high computational expense for sampling-based methods, low resolution for graph-search-based methods, and lack of global awareness for optimization-based methods. It leads to one of the challenges for trajectory planning for autonomous vehicles, which is improving planning efficiency while guaranteeing model feasibility. Therefore, this paper proposes a hybrid planning framework composed of two modules, which preserves the strength of both graph-search-based methods and optimization-based methods, thus enabling faster and smoother spatio-temporal trajectory planning in constrained dynamic environment. The proposed method first constructs spatio-temporal driving space based on directed acyclic graph and efficiently searches a spatio-temporal trajectory using the improved A* algorithm. Then taking the search result as reference, locally convex feasible driving area is designed and model predictive control is applied to further optimize the trajectory with a comprehensive consideration of vehicle kinematics and moving obstacles. Results simulated in four different scenarios all demonstrated feasible trajectories without emergency stop or abrupt steering change, which is kinematic-smooth to follow. Moreover, the average planning time was 31 ms, which only took 59.05%, 18.87%, and 0.69%, respectively, of that consumed by other state-of-the-art trajectory planning methods, namely, maximum interaction defensive policy, sampling-based method with iterative optimizations, and Graph-search-based method with Dynamic Programming." />
+  <meta name="description" content="Model information can be used to predict future trajectories, so it has huge potential to avoid dangerous region when implementing reinforcement learning (RL) on real-world tasks, like autonomous driving. However, existing studies mostly use model-free constrained RL, which causes inevitable constraint violations. This paper proposes a model-based feasibility enhancement technique of constrained RL, which enhances the feasibility of policy using generalized control barrier function (GCBF) defined on the distance to constraint boundary. By using the model information, the policy can be optimized safely without violating actual safety constraints, and the sample efficiency is increased. The major difficulty of infeasibility in solving the constrained policy gradient is handled by an adaptive coefficient mechanism. We evaluate the proposed method in both simulations and real vehicle experiments in a complex autonomous driving collision avoidance task. The proposed method achieves up to four times fewer constraint violations and converges 3.36 times faster than baseline constrained RL approaches." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/xinlong/" />
+  <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/cfb/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://idthanm.github.io/publication/xinlong/" />
+  <link rel="canonical" href="https://idthanm.github.io/publication/cfb/" />
 
   
   
@@ -287,15 +287,16 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA" />
-  <meta property="og:url" content="https://idthanm.github.io/publication/xinlong/" />
-  <meta property="og:title" content="Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment | YANG GUAN - TSINGHUA" />
-  <meta property="og:description" content="Trajectory planning is of vital importance to decision-making for autonomous vehicles. Currently, there are three popular classes of cost-based trajectory planning methods: sampling-based, graph-search-based, and optimization-based. However, each of them has its own shortcomings, for example, high computational expense for sampling-based methods, low resolution for graph-search-based methods, and lack of global awareness for optimization-based methods. It leads to one of the challenges for trajectory planning for autonomous vehicles, which is improving planning efficiency while guaranteeing model feasibility. Therefore, this paper proposes a hybrid planning framework composed of two modules, which preserves the strength of both graph-search-based methods and optimization-based methods, thus enabling faster and smoother spatio-temporal trajectory planning in constrained dynamic environment. The proposed method first constructs spatio-temporal driving space based on directed acyclic graph and efficiently searches a spatio-temporal trajectory using the improved A* algorithm. Then taking the search result as reference, locally convex feasible driving area is designed and model predictive control is applied to further optimize the trajectory with a comprehensive consideration of vehicle kinematics and moving obstacles. Results simulated in four different scenarios all demonstrated feasible trajectories without emergency stop or abrupt steering change, which is kinematic-smooth to follow. Moreover, the average planning time was 31 ms, which only took 59.05%, 18.87%, and 0.69%, respectively, of that consumed by other state-of-the-art trajectory planning methods, namely, maximum interaction defensive policy, sampling-based method with iterative optimizations, and Graph-search-based method with Dynamic Programming." /><meta property="og:image" content="https://idthanm.github.io/publication/xinlong/featured.png" />
-    <meta property="twitter:image" content="https://idthanm.github.io/publication/xinlong/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://idthanm.github.io/publication/cfb/" />
+  <meta property="og:title" content="Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function | YANG GUAN - TSINGHUA" />
+  <meta property="og:description" content="Model information can be used to predict future trajectories, so it has huge potential to avoid dangerous region when implementing reinforcement learning (RL) on real-world tasks, like autonomous driving. However, existing studies mostly use model-free constrained RL, which causes inevitable constraint violations. This paper proposes a model-based feasibility enhancement technique of constrained RL, which enhances the feasibility of policy using generalized control barrier function (GCBF) defined on the distance to constraint boundary. By using the model information, the policy can be optimized safely without violating actual safety constraints, and the sample efficiency is increased. The major difficulty of infeasibility in solving the constrained policy gradient is handled by an adaptive coefficient mechanism. We evaluate the proposed method in both simulations and real vehicle experiments in a complex autonomous driving collision avoidance task. The proposed method achieves up to four times fewer constraint violations and converges 3.36 times faster than baseline constrained RL approaches." /><meta property="og:image" content="https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -303,7 +304,7 @@
         content="2021-03-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-04-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-03-01T00:00:00&#43;00:00">
   
 
   
@@ -325,20 +326,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://idthanm.github.io/publication/xinlong/"
+    "@id": "https://idthanm.github.io/publication/cfb/"
   },
-  "headline": "Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment",
-  
-  "image": [
-    "https://idthanm.github.io/publication/xinlong/featured.png"
-  ],
+  "headline": "Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function",
   
   "datePublished": "2021-03-01T00:00:00Z",
-  "dateModified": "2020-04-01T00:00:00Z",
+  "dateModified": "2021-03-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Long Xin"
+    "name": "Haitong Ma"
   },
   
   "publisher": {
@@ -349,7 +346,7 @@
       "url": "https://idthanm.github.io/media/icon_hued89aef2612a3ec9bde697b5f3e9042a_40912_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Trajectory planning is of vital importance to decision-making for autonomous vehicles. Currently, there are three popular classes of cost-based trajectory planning methods: sampling-based, graph-search-based, and optimization-based. However, each of them has its own shortcomings, for example, high computational expense for sampling-based methods, low resolution for graph-search-based methods, and lack of global awareness for optimization-based methods. It leads to one of the challenges for trajectory planning for autonomous vehicles, which is improving planning efficiency while guaranteeing model feasibility. Therefore, this paper proposes a hybrid planning framework composed of two modules, which preserves the strength of both graph-search-based methods and optimization-based methods, thus enabling faster and smoother spatio-temporal trajectory planning in constrained dynamic environment. The proposed method first constructs spatio-temporal driving space based on directed acyclic graph and efficiently searches a spatio-temporal trajectory using the improved A* algorithm. Then taking the search result as reference, locally convex feasible driving area is designed and model predictive control is applied to further optimize the trajectory with a comprehensive consideration of vehicle kinematics and moving obstacles. Results simulated in four different scenarios all demonstrated feasible trajectories without emergency stop or abrupt steering change, which is kinematic-smooth to follow. Moreover, the average planning time was 31 ms, which only took 59.05%, 18.87%, and 0.69%, respectively, of that consumed by other state-of-the-art trajectory planning methods, namely, maximum interaction defensive policy, sampling-based method with iterative optimizations, and Graph-search-based method with Dynamic Programming."
+  "description": "Model information can be used to predict future trajectories, so it has huge potential to avoid dangerous region when implementing reinforcement learning (RL) on real-world tasks, like autonomous driving. However, existing studies mostly use model-free constrained RL, which causes inevitable constraint violations. This paper proposes a model-based feasibility enhancement technique of constrained RL, which enhances the feasibility of policy using generalized control barrier function (GCBF) defined on the distance to constraint boundary. By using the model information, the policy can be optimized safely without violating actual safety constraints, and the sample efficiency is increased. The major difficulty of infeasibility in solving the constrained policy gradient is handled by an adaptive coefficient mechanism. We evaluate the proposed method in both simulations and real vehicle experiments in a complex autonomous driving collision avoidance task. The proposed method achieves up to four times fewer constraint violations and converges 3.36 times faster than baseline constrained RL approaches."
 }
 </script>
 
@@ -365,11 +362,11 @@
 
 
 
-  <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment | YANG GUAN - TSINGHUA</title>
+  <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function | YANG GUAN - TSINGHUA</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c7f34fc9dd0b5742d6db83ce0b55fc6e" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e7b4eefbc4a0e3d957d93525ad8516c8" >
 
   
   
@@ -774,24 +771,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</h1>
+  <h1>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -804,13 +795,13 @@
     
 
   <span >
-      Long Xin</span>, <span >
-      Yiting Kong</span>, <span >
-      Shengbo Eben Li</span>, <span >
+      Haitong Ma</span>, <span >
       Jianyu Chen</span>, <span >
+      Shengbo Eben Li</span>, <span >
+      Ziyu Lin</span>, <span >
       Yang Guan</span>, <span >
-      Masayoshi Tomizuka</span>, <span >
-      Bingbing Nie</span>
+      Yangang Ren</span>, <span >
+      Sifa Zheng</span>
   </div>
   
   
@@ -821,7 +812,7 @@
     
       
     
-    April 2020
+    March 2021
   </span>
   
 
@@ -841,7 +832,7 @@
 
 </div>
 
-  
+    
 
 
 
@@ -875,10 +866,6 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1177/0954407020906627" target="_blank" rel="noopener">
-  DOI
-</a>
-
 
   
   
@@ -891,9 +878,9 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://www.researchgate.net/profile/Shengbo-Li-2/publication/340516864_Enable_faster_and_smoother_spatio-temporal_trajectory_planning_for_autonomous_vehicles_in_constrained_dynamic_environment/links/5e9c5cf84585150839e88fcd/Enable-faster-and-smoother-spatio-temporal-trajectory-planning-for-autonomous-vehicles-in-constrained-dynamic-environment.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2103.01556.pdf" target="_blank" rel="noopener">
     
-    PDF
+    Preprint
   </a>
 
   
@@ -907,9 +894,9 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://www.bilibili.com/video/BV1KK4y1n7EW" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/mahaitongdae/safe_exp_env" target="_blank" rel="noopener">
     
-    Video
+    Code
   </a>
 
   
@@ -926,7 +913,7 @@
       
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="/citations/xinlong.bib" >
+  <a class="btn btn-outline-primary btn-page-header" href="/citations/cfb.bib" >
     
     Cite
   </a>
@@ -935,14 +922,7 @@
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 674px; max-height: 760px;">
-  <div style="position: relative">
-    <img src="/publication/xinlong/featured.png" alt="" class="featured-image">
-    <span class="article-header-caption">Image credit: <a href="https://arxiv.org/abs/2103.04535.pdf"><strong>original paper</strong></a></span>
-  </div>
+  
 </div>
 
 
@@ -951,7 +931,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Trajectory planning is of vital importance to decision-making for autonomous vehicles. Currently, there are three popular classes of cost-based trajectory planning methods: sampling-based, graph-search-based, and optimization-based. However, each of them has its own shortcomings, for example, high computational expense for sampling-based methods, low resolution for graph-search-based methods, and lack of global awareness for optimization-based methods. It leads to one of the challenges for trajectory planning for autonomous vehicles, which is improving planning efficiency while guaranteeing model feasibility. Therefore, this paper proposes a hybrid planning framework composed of two modules, which preserves the strength of both graph-search-based methods and optimization-based methods, thus enabling faster and smoother spatio-temporal trajectory planning in constrained dynamic environment. The proposed method first constructs spatio-temporal driving space based on directed acyclic graph and efficiently searches a spatio-temporal trajectory using the improved A* algorithm. Then taking the search result as reference, locally convex feasible driving area is designed and model predictive control is applied to further optimize the trajectory with a comprehensive consideration of vehicle kinematics and moving obstacles. Results simulated in four different scenarios all demonstrated feasible trajectories without emergency stop or abrupt steering change, which is kinematic-smooth to follow. Moreover, the average planning time was 31 ms, which only took 59.05%, 18.87%, and 0.69%, respectively, of that consumed by other state-of-the-art trajectory planning methods, namely, maximum interaction defensive policy, sampling-based method with iterative optimizations, and Graph-search-based method with Dynamic Programming.</p>
+    <p class="pub-abstract">Model information can be used to predict future trajectories, so it has huge potential to avoid dangerous region when implementing reinforcement learning (RL) on real-world tasks, like autonomous driving. However, existing studies mostly use model-free constrained RL, which causes inevitable constraint violations. This paper proposes a model-based feasibility enhancement technique of constrained RL, which enhances the feasibility of policy using generalized control barrier function (GCBF) defined on the distance to constraint boundary. By using the model information, the policy can be optimized safely without violating actual safety constraints, and the sample efficiency is increased. The major difficulty of infeasibility in solving the constrained policy gradient is handled by an adaptive coefficient mechanism. We evaluate the proposed method in both simulations and real vehicle experiments in a complex autonomous driving collision avoidance task. The proposed method achieves up to four times fewer constraint violations and converges 3.36 times faster than baseline constrained RL approaches.</p>
     
 
     
@@ -962,8 +942,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
           </div>
         </div>
@@ -979,7 +959,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering</em></div>
+          <div class="col-12 col-md-9">In <em>The 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (submitted)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
