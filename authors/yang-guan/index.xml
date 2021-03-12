@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bingbing Nie | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/bingbing-nie/</link>
-      <atom:link href="https://idthanm.github.io/authors/bingbing-nie/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bingbing Nie</description>
+    <title>Yang Guan* | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/yang-guan/</link>
+      <atom:link href="https://idthanm.github.io/authors/yang-guan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Guan*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
-      <title>Bingbing Nie</title>
-      <link>https://idthanm.github.io/authors/bingbing-nie/</link>
+      <title>Yang Guan*</title>
+      <link>https://idthanm.github.io/authors/yang-guan/</link>
     </image>
     
     <item>
@@ -22,11 +22,12 @@
     </item>
     
     <item>
-      <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</title>
-      <link>https://idthanm.github.io/publication/xinlong/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/xinlong/</guid>
-      <description></description>
+      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <link>https://idthanm.github.io/publication/dsac/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

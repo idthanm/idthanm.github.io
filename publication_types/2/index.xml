@@ -17,7 +17,8 @@
       <link>https://idthanm.github.io/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/sdsac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <link>https://idthanm.github.io/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/dsac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,6 +51,14 @@
       <link>https://idthanm.github.io/publication/mappo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/mappo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
+      <link>https://idthanm.github.io/publication/hier/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/hier/</guid>
       <description></description>
     </item>
     

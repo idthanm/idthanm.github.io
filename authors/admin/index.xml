@@ -21,22 +21,6 @@
     </item>
     
     <item>
-      <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
-      <link>https://idthanm.github.io/publication/dsac/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/dsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
       <link>https://idthanm.github.io/publication/cfb/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>

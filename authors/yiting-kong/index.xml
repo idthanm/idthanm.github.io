@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yiting Kong | YANG GUAN - TSINGHUA</title>
+    <title>Yiting Kong* | YANG GUAN - TSINGHUA</title>
     <link>https://idthanm.github.io/authors/yiting-kong/</link>
       <atom:link href="https://idthanm.github.io/authors/yiting-kong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yiting Kong</description>
+    <description>Yiting Kong*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©{2021} Yang Guan</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
-      <title>Yiting Kong</title>
+      <title>Yiting Kong*</title>
       <link>https://idthanm.github.io/authors/yiting-kong/</link>
     </image>
     
@@ -17,7 +17,8 @@
       <link>https://idthanm.github.io/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/sdsac/</guid>
-      <description></description>
+      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
+</description>
     </item>
     
     <item>
