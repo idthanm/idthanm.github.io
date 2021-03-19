@@ -171,6 +171,29 @@ My works: 1) Summarised common procedures in different RL algorithms, according 
     </item>
     
     <item>
+      <title>Development of RL environment for large-scale autonomous driving tasks</title>
+      <link>https://idthanm.github.io/project/env_build/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/project/env_build/</guid>
+      <description>&lt;p&gt;This project aims to build a general RL training and testing environment for
+the autonomous driving tasks. My works: 1) Combined a sophisticated
+vehicle dynamics and the large-scale traffic and map constructed using
+SUMO to realize co-simulation of the ego vehicle and its surrounding
+environment. 2) Designed the basic RL elements in the field of
+autonomous driving following the interface defined in Gym, such as the state,
+the action, the reward function, and the reset conditions etc, which can
+be easily reused or modified depending on your task. 3) Correspondingly,
+an analytic model of the environment is developed to facilitate its use
+in model-based RL algorithms. 4) A cluster of training and testing environments
+for our own use are also included, for instance, environments with specific designed
+RL elements (such as using bird view image as state, or using trajectory as action),
+ones with different simulation parameters (such as vehicle parameters, or the map),
+as well as environments for multiple automated vehicles (such as the centralized
+control environment, and the distributed control environment).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Driving AI: Centralized Decision and Control for Multiple Vehicles at Crossroad by RL</title>
       <link>https://idthanm.github.io/project/centralized/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
