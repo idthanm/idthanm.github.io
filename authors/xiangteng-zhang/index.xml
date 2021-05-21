@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sifa Zheng | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/sifa-zheng/</link>
-      <atom:link href="https://idthanm.github.io/authors/sifa-zheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sifa Zheng</description>
+    <title>Xiangteng Zhang | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/xiangteng-zhang/</link>
+      <atom:link href="https://idthanm.github.io/authors/xiangteng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangteng Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
-      <title>Sifa Zheng</title>
-      <link>https://idthanm.github.io/authors/sifa-zheng/</link>
+      <title>Xiangteng Zhang</title>
+      <link>https://idthanm.github.io/authors/xiangteng-zhang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://idthanm.github.io/publication/fac/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/fac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
-      <link>https://idthanm.github.io/publication/cfb/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/cfb/</guid>
       <description></description>
     </item>
     

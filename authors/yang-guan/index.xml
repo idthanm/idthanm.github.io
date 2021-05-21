@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <title>Distributional soft actor-critic for mitigating value overestimations</title>
       <link>https://idthanm.github.io/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/dsac/</guid>

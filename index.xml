@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety</title>
+      <link>https://idthanm.github.io/publication/fac/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/fac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
       <link>https://idthanm.github.io/publication/integrated/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
@@ -54,7 +62,7 @@
     </item>
     
     <item>
-      <title>Distributional Soft Actor-Critic: Off-Policy Reinforcement Learning for Addressing Value Estimation Errors</title>
+      <title>Distributional soft actor-critic for mitigating value overestimations</title>
       <link>https://idthanm.github.io/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://idthanm.github.io/publication/dsac/</guid>

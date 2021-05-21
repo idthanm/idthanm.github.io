@@ -5,12 +5,20 @@
     <link>https://idthanm.github.io/authors/haitong-ma/</link>
       <atom:link href="https://idthanm.github.io/authors/haitong-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Haitong Ma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>Haitong Ma</title>
       <link>https://idthanm.github.io/authors/haitong-ma/</link>
     </image>
+    
+    <item>
+      <title>Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety</title>
+      <link>https://idthanm.github.io/publication/fac/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/fac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
