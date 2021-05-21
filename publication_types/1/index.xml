@@ -5,12 +5,20 @@
     <link>https://idthanm.github.io/publication_types/1/</link>
       <atom:link href="https://idthanm.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://idthanm.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
+      <link>https://idthanm.github.io/publication/idc_itsc/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/idc_itsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety</title>

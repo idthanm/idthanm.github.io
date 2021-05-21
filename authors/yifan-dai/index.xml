@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifan Dai | YANG GUAN - TSINGHUA</title>
+    <link>https://idthanm.github.io/authors/yifan-dai/</link>
+      <atom:link href="https://idthanm.github.io/authors/yifan-dai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifan Dai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <title>Yifan Dai</title>
+      <link>https://idthanm.github.io/authors/yifan-dai/</link>
+    </image>
+    
+    <item>
+      <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
+      <link>https://idthanm.github.io/publication/idc_itsc/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/idc_itsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
