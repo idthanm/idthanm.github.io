@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision making and control tasks. In this paper, we classify RL into direct and indirect methods according to how they seek optimal policy of the Markov Decision Process (MDP) problem. The former solves optimal policy by directly maximizing an objective function using gradient descent method, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&#39;s principle of optimality. We take vanilla policy gradient and approximate policy iteration to study their internal relationship, and reveal that both direct and indirect methods can be unified in actor-critic architecture and are equivalent if we always choose stationary state distribution of current policy as initial state distribution of MDP. Finally, we classify the current mainstream RL algorithms and compare the differences between other criteria including value-based and policy-based, model-based and model-free.">
+  <meta name="description" content="Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision-making and control tasks. In this paper, we classify RL into direct and indirect RL according to how they seek the optimal policy of the Markov decision process problem. The former solves the optimal policy by directly maximizing an objective function using gradient descent methods, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&#39;s principle of optimality. We study policy gradient (PG) forms of direct and indirect RL and show that both of them can derive the actor–critic architecture and can be unified into a PG with the approximate value function and the stationary state distribution, revealing the equivalence of direct and indirect RL. We employ a Gridworld task to verify the influence of different forms of PG, suggesting their differences and relationships experimentally. Finally, we classify current mainstream RL algorithms using the direct and indirect taxonomy, together with other ones, including value-based and policy-based, model-based and model-free.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/di_indi/">
@@ -113,7 +113,7 @@
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
   <meta property="og:url" content="https://idthanm.github.io/publication/di_indi/">
   <meta property="og:title" content="Direct and indirect reinforcement learning | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision making and control tasks. In this paper, we classify RL into direct and indirect methods according to how they seek optimal policy of the Markov Decision Process (MDP) problem. The former solves optimal policy by directly maximizing an objective function using gradient descent method, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&#39;s principle of optimality. We take vanilla policy gradient and approximate policy iteration to study their internal relationship, and reveal that both direct and indirect methods can be unified in actor-critic architecture and are equivalent if we always choose stationary state distribution of current policy as initial state distribution of MDP. Finally, we classify the current mainstream RL algorithms and compare the differences between other criteria including value-based and policy-based, model-based and model-free."><meta property="og:image" content="https://idthanm.github.io/img/icon-192.png">
+  <meta property="og:description" content="Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision-making and control tasks. In this paper, we classify RL into direct and indirect RL according to how they seek the optimal policy of the Markov decision process problem. The former solves the optimal policy by directly maximizing an objective function using gradient descent methods, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&#39;s principle of optimality. We study policy gradient (PG) forms of direct and indirect RL and show that both of them can derive the actor–critic architecture and can be unified into a PG with the approximate value function and the stationary state distribution, revealing the equivalence of direct and indirect RL. We employ a Gridworld task to verify the influence of different forms of PG, suggesting their differences and relationships experimentally. Finally, we classify current mainstream RL algorithms using the direct and indirect taxonomy, together with other ones, including value-based and policy-based, model-based and model-free."><meta property="og:image" content="https://idthanm.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://idthanm.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -163,7 +163,7 @@
       "url": "https://idthanm.github.io/img/icon-512.png"
     }
   },
-  "description": "Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision making and control tasks. In this paper, we classify RL into direct and indirect methods according to how they seek optimal policy of the Markov Decision Process (MDP) problem. The former solves optimal policy by directly maximizing an objective function using gradient descent method, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman's principle of optimality. We take vanilla policy gradient and approximate policy iteration to study their internal relationship, and reveal that both direct and indirect methods can be unified in actor-critic architecture and are equivalent if we always choose stationary state distribution of current policy as initial state distribution of MDP. Finally, we classify the current mainstream RL algorithms and compare the differences between other criteria including value-based and policy-based, model-based and model-free."
+  "description": "Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision-making and control tasks. In this paper, we classify RL into direct and indirect RL according to how they seek the optimal policy of the Markov decision process problem. The former solves the optimal policy by directly maximizing an objective function using gradient descent methods, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman's principle of optimality. We study policy gradient (PG) forms of direct and indirect RL and show that both of them can derive the actor–critic architecture and can be unified into a PG with the approximate value function and the stationary state distribution, revealing the equivalence of direct and indirect RL. We employ a Gridworld task to verify the influence of different forms of PG, suggesting their differences and relationships experimentally. Finally, we classify current mainstream RL algorithms using the direct and indirect taxonomy, together with other ones, including value-based and policy-based, model-based and model-free."
 }
 </script>
 
@@ -563,20 +563,18 @@
 
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/1912.10600.pdf" target="_blank" rel="noopener">
-  Preprint
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22466" target="_blank" rel="noopener">
+  PDF
 </a>
-
-
-
-
-  
-
-
 
 
 
@@ -611,7 +609,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision making and control tasks. In this paper, we classify RL into direct and indirect methods according to how they seek optimal policy of the Markov Decision Process (MDP) problem. The former solves optimal policy by directly maximizing an objective function using gradient descent method, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&rsquo;s principle of optimality. We take vanilla policy gradient and approximate policy iteration to study their internal relationship, and reveal that both direct and indirect methods can be unified in actor-critic architecture and are equivalent if we always choose stationary state distribution of current policy as initial state distribution of MDP. Finally, we classify the current mainstream RL algorithms and compare the differences between other criteria including value-based and policy-based, model-based and model-free.</p>
+    <p class="pub-abstract">Reinforcement learning (RL) algorithms have been successfully applied to a range of challenging sequential decision-making and control tasks. In this paper, we classify RL into direct and indirect RL according to how they seek the optimal policy of the Markov decision process problem. The former solves the optimal policy by directly maximizing an objective function using gradient descent methods, in which the objective function is usually the expectation of accumulative future rewards. The latter indirectly finds the optimal policy by solving the Bellman equation, which is the sufficient and necessary condition from Bellman&rsquo;s principle of optimality. We study policy gradient (PG) forms of direct and indirect RL and show that both of them can derive the actor–critic architecture and can be unified into a PG with the approximate value function and the stationary state distribution, revealing the equivalence of direct and indirect RL. We employ a Gridworld task to verify the influence of different forms of PG, suggesting their differences and relationships experimentally. Finally, we classify current mainstream RL algorithms using the direct and indirect taxonomy, together with other ones, including value-based and policy-based, model-based and model-free.</p>
     
 
     
@@ -641,7 +639,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>International Journal of Intelligent Systems</em></div>
+          <div class="col-12 col-md-9">In <em>International Journal of Intelligent Systems</em> (cover paper)</div>
         </div>
       </div>
       <div class="col-md-1"></div>

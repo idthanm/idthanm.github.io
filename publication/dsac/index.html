@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="In current reinforcement learning (RL) methods, function approximation errors are known to lead to the overestimated or underestimated Q-value estimates, thus resulting in suboptimal policies. We show that the learning of a state-action return distribution function can be used to improve the Q-value estimation accuracy. We employ the return distribution function within the maximum entropy RL framework in order to develop what we call the Distributional Soft Actor-Critic (DSAC) algorithm, which is an off-policy method for continuous control setting. Unlike traditional distributional RL algorithms which typically only learn a discrete return distribution, DSAC directly learns a continuous return distribution by truncating the difference between the target and current distribution to prevent gradient explosion. Additionally, we propose a new Parallel Asynchronous Buffer-Actor-Learner architecture (PABAL) to improve the learning efficiency, which is a generalization of current high-throughput learning architectures. We evaluate our method on the suite of MuJoCo continuous control tasks, achieving state-of-the-art performance.">
+  <meta name="description" content="In reinforcement learning (RL), function approximation errors are known to easily lead to the Q-value overestimations, thus greatly reducing policy performance. This article presents a distributional soft actor-critic (DSAC) algorithm, which is an off-policy RL method for continuous control setting, to improve the policy performance by mitigating Q-value overestimations. We first discover in theory that learning a distribution function of state-action returns can effectively mitigate Q-value overestimations because it is capable of adaptively adjusting the update step size of the Q-value function. Then, a distributional soft policy iteration (DSPI) framework is developed by embedding the return distribution function into maximum entropy RL. Finally, we present a deep off-policy actor-critic variant of DSPI, called DSAC, which directly learns a continuous return distribution by keeping the variance of the state-action returns within a reasonable range to address exploding and vanishing gradient problems. We evaluate DSAC on the suite of MuJoCo continuous control tasks, achieving the state-of-the-art performance.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/dsac/">
@@ -112,7 +112,7 @@
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
   <meta property="og:url" content="https://idthanm.github.io/publication/dsac/">
   <meta property="og:title" content="Distributional soft actor-critic for mitigating value overestimations | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="In current reinforcement learning (RL) methods, function approximation errors are known to lead to the overestimated or underestimated Q-value estimates, thus resulting in suboptimal policies. We show that the learning of a state-action return distribution function can be used to improve the Q-value estimation accuracy. We employ the return distribution function within the maximum entropy RL framework in order to develop what we call the Distributional Soft Actor-Critic (DSAC) algorithm, which is an off-policy method for continuous control setting. Unlike traditional distributional RL algorithms which typically only learn a discrete return distribution, DSAC directly learns a continuous return distribution by truncating the difference between the target and current distribution to prevent gradient explosion. Additionally, we propose a new Parallel Asynchronous Buffer-Actor-Learner architecture (PABAL) to improve the learning efficiency, which is a generalization of current high-throughput learning architectures. We evaluate our method on the suite of MuJoCo continuous control tasks, achieving state-of-the-art performance."><meta property="og:image" content="https://idthanm.github.io/publication/dsac/featured.png">
+  <meta property="og:description" content="In reinforcement learning (RL), function approximation errors are known to easily lead to the Q-value overestimations, thus greatly reducing policy performance. This article presents a distributional soft actor-critic (DSAC) algorithm, which is an off-policy RL method for continuous control setting, to improve the policy performance by mitigating Q-value overestimations. We first discover in theory that learning a distribution function of state-action returns can effectively mitigate Q-value overestimations because it is capable of adaptively adjusting the update step size of the Q-value function. Then, a distributional soft policy iteration (DSPI) framework is developed by embedding the return distribution function into maximum entropy RL. Finally, we present a deep off-policy actor-critic variant of DSPI, called DSAC, which directly learns a continuous return distribution by keeping the variance of the state-action returns within a reasonable range to address exploding and vanishing gradient problems. We evaluate DSAC on the suite of MuJoCo continuous control tasks, achieving the state-of-the-art performance."><meta property="og:image" content="https://idthanm.github.io/publication/dsac/featured.png">
   <meta property="twitter:image" content="https://idthanm.github.io/publication/dsac/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -166,7 +166,7 @@
       "url": "https://idthanm.github.io/img/icon-512.png"
     }
   },
-  "description": "In current reinforcement learning (RL) methods, function approximation errors are known to lead to the overestimated or underestimated Q-value estimates, thus resulting in suboptimal policies. We show that the learning of a state-action return distribution function can be used to improve the Q-value estimation accuracy. We employ the return distribution function within the maximum entropy RL framework in order to develop what we call the Distributional Soft Actor-Critic (DSAC) algorithm, which is an off-policy method for continuous control setting. Unlike traditional distributional RL algorithms which typically only learn a discrete return distribution, DSAC directly learns a continuous return distribution by truncating the difference between the target and current distribution to prevent gradient explosion. Additionally, we propose a new Parallel Asynchronous Buffer-Actor-Learner architecture (PABAL) to improve the learning efficiency, which is a generalization of current high-throughput learning architectures. We evaluate our method on the suite of MuJoCo continuous control tasks, achieving state-of-the-art performance."
+  "description": "In reinforcement learning (RL), function approximation errors are known to easily lead to the Q-value overestimations, thus greatly reducing policy performance. This article presents a distributional soft actor-critic (DSAC) algorithm, which is an off-policy RL method for continuous control setting, to improve the policy performance by mitigating Q-value overestimations. We first discover in theory that learning a distribution function of state-action returns can effectively mitigate Q-value overestimations because it is capable of adaptively adjusting the update step size of the Q-value function. Then, a distributional soft policy iteration (DSPI) framework is developed by embedding the return distribution function into maximum entropy RL. Finally, we present a deep off-policy actor-critic variant of DSPI, called DSAC, which directly learns a continuous return distribution by keeping the variance of the state-action returns within a reasonable range to address exploding and vanishing gradient problems. We evaluate DSAC on the suite of MuJoCo continuous control tasks, achieving the state-of-the-art performance."
 }
 </script>
 
@@ -574,20 +574,18 @@
 
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2001.02811.pdf" target="_blank" rel="noopener">
-  Preprint
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.researchgate.net/publication/352258473_Distributional_Soft_Actor-Critic_Off-Policy_Reinforcement_Learning_for_Addressing_Value_Estimation_Errors#fullTextFileContent" target="_blank" rel="noopener">
+  PDF
 </a>
-
-
-
-
-  
-
-
 
 
 
@@ -645,7 +643,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">In current reinforcement learning (RL) methods, function approximation errors are known to lead to the overestimated or underestimated Q-value estimates, thus resulting in suboptimal policies. We show that the learning of a state-action return distribution function can be used to improve the Q-value estimation accuracy. We employ the return distribution function within the maximum entropy RL framework in order to develop what we call the Distributional Soft Actor-Critic (DSAC) algorithm, which is an off-policy method for continuous control setting. Unlike traditional distributional RL algorithms which typically only learn a discrete return distribution, DSAC directly learns a continuous return distribution by truncating the difference between the target and current distribution to prevent gradient explosion. Additionally, we propose a new Parallel Asynchronous Buffer-Actor-Learner architecture (PABAL) to improve the learning efficiency, which is a generalization of current high-throughput learning architectures. We evaluate our method on the suite of MuJoCo continuous control tasks, achieving state-of-the-art performance.</p>
+    <p class="pub-abstract">In reinforcement learning (RL), function approximation errors are known to easily lead to the Q-value overestimations, thus greatly reducing policy performance. This article presents a distributional soft actor-critic (DSAC) algorithm, which is an off-policy RL method for continuous control setting, to improve the policy performance by mitigating Q-value overestimations. We first discover in theory that learning a distribution function of state-action returns can effectively mitigate Q-value overestimations because it is capable of adaptively adjusting the update step size of the Q-value function. Then, a distributional soft policy iteration (DSPI) framework is developed by embedding the return distribution function into maximum entropy RL. Finally, we present a deep off-policy actor-critic variant of DSPI, called DSAC, which directly learns a continuous return distribution by keeping the variance of the state-action returns within a reasonable range to address exploding and vanishing gradient problems. We evaluate DSAC on the suite of MuJoCo continuous control tasks, achieving the state-of-the-art performance.</p>
     
 
     

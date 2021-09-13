@@ -5,12 +5,20 @@
     <link>https://idthanm.github.io/authors/yao-mu/</link>
       <atom:link href="https://idthanm.github.io/authors/yao-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Mu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>Yao Mu</title>
       <link>https://idthanm.github.io/authors/yao-mu/</link>
     </image>
+    
+    <item>
+      <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
+      <link>https://idthanm.github.io/publication/spil_journal/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/spil_journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>

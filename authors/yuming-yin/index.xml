@@ -5,12 +5,20 @@
     <link>https://idthanm.github.io/authors/yuming-yin/</link>
       <atom:link href="https://idthanm.github.io/authors/yuming-yin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuming Yin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://idthanm.github.io/img/icon-192.png</url>
       <title>Yuming Yin</title>
       <link>https://idthanm.github.io/authors/yuming-yin/</link>
     </image>
+    
+    <item>
+      <title>Integrated Decision and Control at Multi-Lane Intersections with Mixed Traffic Flow</title>
+      <link>https://idthanm.github.io/publication/idc_mix/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://idthanm.github.io/publication/idc_mix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
