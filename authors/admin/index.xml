@@ -5,12 +5,20 @@
     <link>https://yangguan.me/authors/admin/</link>
       <atom:link href="https://yangguan.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>YANG GUAN - TSINGHUA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>YANG GUAN - TSINGHUA</title>
       <link>https://yangguan.me/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Integrated Decision and Control of Automated Vehicles and Its Training by Mixed Reinforcement Learning</title>
+      <link>https://yangguan.me/publication/thesis/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>

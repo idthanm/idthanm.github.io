@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | YANG GUAN - TSINGHUA</title>
+    <link>https://yangguan.me/publication_types/7/</link>
+      <atom:link href="https://yangguan.me/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yangguan.me/img/icon-192.png</url>
+      <title>7</title>
+      <link>https://yangguan.me/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Integrated Decision and Control of Automated Vehicles and Its Training by Mixed Reinforcement Learning</title>
+      <link>https://yangguan.me/publication/thesis/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
