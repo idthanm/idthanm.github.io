@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yang Guan* | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/yang-guan/</link>
-      <atom:link href="https://idthanm.github.io/authors/yang-guan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/yang-guan/</link>
+      <atom:link href="https://yangguan.me/authors/yang-guan/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Guan*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Yang Guan*</title>
-      <link>https://idthanm.github.io/authors/yang-guan/</link>
+      <link>https://yangguan.me/authors/yang-guan/</link>
     </image>
     
     <item>
       <title>Beyond backpropagate through time: efficient model-based training through time-splitting algorithm</title>
-      <link>https://idthanm.github.io/publication/t3s/</link>
+      <link>https://yangguan.me/publication/t3s/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/t3s/</guid>
+      <guid>https://yangguan.me/publication/t3s/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
+      <link>https://yangguan.me/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
+      <guid>https://yangguan.me/publication/sdsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributional soft actor-critic for mitigating value overestimations</title>
-      <link>https://idthanm.github.io/publication/dsac/</link>
+      <link>https://yangguan.me/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <guid>https://yangguan.me/publication/dsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>

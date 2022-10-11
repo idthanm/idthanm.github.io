@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yao Mu | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/yao-mu/</link>
-      <atom:link href="https://idthanm.github.io/authors/yao-mu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/yao-mu/</link>
+      <atom:link href="https://yangguan.me/authors/yao-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Mu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Yao Mu</title>
-      <link>https://idthanm.github.io/authors/yao-mu/</link>
+      <link>https://yangguan.me/authors/yao-mu/</link>
     </image>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
-      <link>https://idthanm.github.io/publication/spil_journal/</link>
+      <link>https://yangguan.me/publication/spil_journal/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil_journal/</guid>
+      <guid>https://yangguan.me/publication/spil_journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>
-      <link>https://idthanm.github.io/publication/spil/</link>
+      <link>https://yangguan.me/publication/spil/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil/</guid>
+      <guid>https://yangguan.me/publication/spil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steadily Learn to Drive with Virtual Memory</title>
-      <link>https://idthanm.github.io/publication/lvm/</link>
+      <link>https://yangguan.me/publication/lvm/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/lvm/</guid>
+      <guid>https://yangguan.me/publication/lvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://idthanm.github.io/publication/ccac/</link>
+      <link>https://yangguan.me/publication/ccac/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ccac/</guid>
+      <guid>https://yangguan.me/publication/ccac/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/</link>
-      <atom:link href="https://idthanm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/</link>
+      <atom:link href="https://yangguan.me/index.xml" rel="self" type="application/rss+xml" />
     <description>YANG GUAN - TSINGHUA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>YANG GUAN - TSINGHUA</title>
-      <link>https://idthanm.github.io/</link>
+      <link>https://yangguan.me/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://idthanm.github.io/talk/example/</link>
+      <link>https://yangguan.me/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/talk/example/</guid>
+      <guid>https://yangguan.me/talk/example/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,116 +30,116 @@
     
     <item>
       <title>Beyond backpropagate through time: efficient model-based training through time-splitting algorithm</title>
-      <link>https://idthanm.github.io/publication/t3s/</link>
+      <link>https://yangguan.me/publication/t3s/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/t3s/</guid>
+      <guid>https://yangguan.me/publication/t3s/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
-      <link>https://idthanm.github.io/publication/spil_journal/</link>
+      <link>https://yangguan.me/publication/spil_journal/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil_journal/</guid>
+      <guid>https://yangguan.me/publication/spil_journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/idc_itsc/</link>
+      <link>https://yangguan.me/publication/idc_itsc/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/idc_itsc/</guid>
+      <guid>https://yangguan.me/publication/idc_itsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
-      <link>https://idthanm.github.io/publication/integrated/</link>
+      <link>https://yangguan.me/publication/integrated/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/integrated/</guid>
+      <guid>https://yangguan.me/publication/integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
-      <link>https://idthanm.github.io/publication/rf/</link>
+      <link>https://yangguan.me/publication/rf/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/rf/</guid>
+      <guid>https://yangguan.me/publication/rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
+      <link>https://yangguan.me/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
+      <guid>https://yangguan.me/publication/sdsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributional soft actor-critic for mitigating value overestimations</title>
-      <link>https://idthanm.github.io/publication/dsac/</link>
+      <link>https://yangguan.me/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <guid>https://yangguan.me/publication/dsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
-      <link>https://idthanm.github.io/publication/cfb/</link>
+      <link>https://yangguan.me/publication/cfb/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/cfb/</guid>
+      <guid>https://yangguan.me/publication/cfb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Policy Gradient</title>
-      <link>https://idthanm.github.io/publication/mpg/</link>
+      <link>https://yangguan.me/publication/mpg/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mpg/</guid>
+      <guid>https://yangguan.me/publication/mpg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>
-      <link>https://idthanm.github.io/publication/spil/</link>
+      <link>https://yangguan.me/publication/spil/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil/</guid>
+      <guid>https://yangguan.me/publication/spil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steadily Learn to Drive with Virtual Memory</title>
-      <link>https://idthanm.github.io/publication/lvm/</link>
+      <link>https://yangguan.me/publication/lvm/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/lvm/</guid>
+      <guid>https://yangguan.me/publication/lvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://idthanm.github.io/publication/ccac/</link>
+      <link>https://yangguan.me/publication/ccac/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ccac/</guid>
+      <guid>https://yangguan.me/publication/ccac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct and indirect reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <link>https://yangguan.me/publication/di_indi/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <guid>https://yangguan.me/publication/di_indi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable Driving AI with Highly Efficient Online Computation and Self-evolution Ability</title>
-      <link>https://idthanm.github.io/project/interpretable/</link>
+      <link>https://yangguan.me/project/interpretable/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/project/interpretable/</guid>
+      <guid>https://yangguan.me/project/interpretable/</guid>
       <description>&lt;p&gt;The project aims to build an interpretable self-learning driving system by RL, for the real-time decision and control of automated vehicles.
 My works: 1) Formulated a general integrated decision and control framework, which utilizes RL as a way to solve constrained optimal control problems (OCP), and thus makes the output interpretable in the sense that it is the approximate solution of the OCP. The framework is promising to promote RL applications in real-world autonomous driving tasks. 2) Proposed a model-based RL algorithm for approximately solving large-scale constrained OCPs, where a generalized exterior point method is employed to find a feasible neural solution. 3) Carried out experiments both in simulation and in real world, yielding the best performance in terms of computing efficiency 10x and safety 100x compared with baseline methods.&lt;/p&gt;
 </description>
@@ -147,49 +147,49 @@ My works: 1) Formulated a general integrated decision and control framework, whi
     
     <item>
       <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
-      <link>https://idthanm.github.io/publication/mappo/</link>
+      <link>https://yangguan.me/publication/mappo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mappo/</guid>
+      <guid>https://yangguan.me/publication/mappo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
+      <link>https://yangguan.me/publication/minmax_dsac/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
+      <guid>https://yangguan.me/publication/minmax_dsac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://idthanm.github.io/publication/ternary/</link>
+      <link>https://yangguan.me/publication/ternary/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ternary/</guid>
+      <guid>https://yangguan.me/publication/ternary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
-      <link>https://idthanm.github.io/publication/hier/</link>
+      <link>https://yangguan.me/publication/hier/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/hier/</guid>
+      <guid>https://yangguan.me/publication/hier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</title>
-      <link>https://idthanm.github.io/publication/xinlong/</link>
+      <link>https://yangguan.me/publication/xinlong/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/xinlong/</guid>
+      <guid>https://yangguan.me/publication/xinlong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of RL Library with High-throughput and Scalable Learning Architecture</title>
-      <link>https://idthanm.github.io/project/mpg/</link>
+      <link>https://yangguan.me/project/mpg/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/project/mpg/</guid>
+      <guid>https://yangguan.me/project/mpg/</guid>
       <description>&lt;p&gt;This project aims to develop a highly modularized and extensible RL library, with the ability of scaling to use hundreds of CPU cores for the high-throughput sampling, storing and updating.
 My works: 1) Summarised common procedures in different RL algorithms, according to that, abstracted the library by Worker, Learner, Buffer, Optimizer, Evaluator, Tester, and Trainer. Each has a certain functionality with clearly designed interface. 2) Proposed a general high-throughput and scalable learning architecture, which organizes arbitrary numbers of Workers, Learners, Buffers, and Evaluators in parallel, each with a CPU core, to enhance the sampling, learning, and replaying efficiency. 3) Developed the library by Tensorflow and Ray, which contains a cluster of state-of-the-art algorithm implementations, including MPG, DSAC, DDPG, ADP, TD3, SAC, PPO, TRPO.&lt;/p&gt;
 </description>
@@ -197,9 +197,9 @@ My works: 1) Summarised common procedures in different RL algorithms, according 
     
     <item>
       <title>Development of RL environment for large-scale autonomous driving tasks</title>
-      <link>https://idthanm.github.io/project/env_build/</link>
+      <link>https://yangguan.me/project/env_build/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/project/env_build/</guid>
+      <guid>https://yangguan.me/project/env_build/</guid>
       <description>&lt;p&gt;This project aims to build a general RL training and testing environment for
 the autonomous driving tasks. My works: 1) Combined a sophisticated
 vehicle dynamics and the large-scale traffic and map constructed using
@@ -220,9 +220,9 @@ control environment, and the distributed control environment).&lt;/p&gt;
     
     <item>
       <title>Driving AI: Centralized Decision and Control for Multiple Vehicles at Crossroad by RL</title>
-      <link>https://idthanm.github.io/project/centralized/</link>
+      <link>https://yangguan.me/project/centralized/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/project/centralized/</guid>
+      <guid>https://yangguan.me/project/centralized/</guid>
       <description>&lt;p&gt;This project aims to develop a centralized coordination scheme of automated vehicles at an intersection without traffic signals using RL to address low computation efficiency suffered by current centralized coordination methods.
 My works: 1) Proposed model accelerated proximal policy optimization algorithm, which incorporates a prior model into PPO to facilitate sample efficiency. 2) Designed state with minimal length, and simplified reward function under consideration of safety, efficiency and task completion. The computing efficiency and traffic efficiency are respectively 400 times and 4.5 times higher that those of the baseline method based on MPC.&lt;/p&gt;
 </description>
@@ -230,9 +230,9 @@ My works: 1) Proposed model accelerated proximal policy optimization algorithm, 
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://idthanm.github.io/post/writing-technical-content/</link>
+      <link>https://yangguan.me/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/post/writing-technical-content/</guid>
+      <guid>https://yangguan.me/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
@@ -402,17 +402,17 @@ gantt
     
     <item>
       <title>Key technique of deep neural network and its applications in autonomous driving</title>
-      <link>https://idthanm.github.io/publication/av_survey/</link>
+      <link>https://yangguan.me/publication/av_survey/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/av_survey/</guid>
+      <guid>https://yangguan.me/publication/av_survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://idthanm.github.io/post/jupyter/</link>
+      <link>https://yangguan.me/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/post/jupyter/</guid>
+      <guid>https://yangguan.me/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -449,9 +449,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://idthanm.github.io/slides/example/</link>
+      <link>https://yangguan.me/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/slides/example/</guid>
+      <guid>https://yangguan.me/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -573,17 +573,17 @@ Three
     
     <item>
       <title>Markov probabilistic decision making of self-driving cars in highway with random traffic flow: a simulation study</title>
-      <link>https://idthanm.github.io/publication/mpd/</link>
+      <link>https://yangguan.me/publication/mpd/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mpd/</guid>
+      <guid>https://yangguan.me/publication/mpd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Decision Making and Planning at Crossroad</title>
-      <link>https://idthanm.github.io/project/planning/</link>
+      <link>https://yangguan.me/project/planning/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/project/planning/</guid>
+      <guid>https://yangguan.me/project/planning/</guid>
       <description>&lt;p&gt;The project aims at designing an automatic decision making system for intelligent vehicle at a typical crossroad.
 My work focuses on decision making module design and implementation (by C++), mainly including behavior recognition of surrounding vehicles, decision of local driving target, and trajectory planning. Surrounding vehicles behavior recognition is achieved by a HMM model, which defines vehicle&amp;rsquo;s behavior as hidden state and infers probability distribution of behaviors every time step. Local driving target is decided by carefully designed rules, and its result is used for trajectory planning, which is realized by an algorithm based on DAG and A*.&lt;/p&gt;
 </description>
@@ -591,9 +591,9 @@ My work focuses on decision making module design and implementation (by C++), ma
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://idthanm.github.io/post/getting-started/</link>
+      <link>https://yangguan.me/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/post/getting-started/</guid>
+      <guid>https://yangguan.me/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;

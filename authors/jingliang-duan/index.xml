@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jingliang Duan | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/jingliang-duan/</link>
-      <atom:link href="https://idthanm.github.io/authors/jingliang-duan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/jingliang-duan/</link>
+      <atom:link href="https://yangguan.me/authors/jingliang-duan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingliang Duan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Jingliang Duan</title>
-      <link>https://idthanm.github.io/authors/jingliang-duan/</link>
+      <link>https://yangguan.me/authors/jingliang-duan/</link>
     </image>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
-      <link>https://idthanm.github.io/publication/spil_journal/</link>
+      <link>https://yangguan.me/publication/spil_journal/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil_journal/</guid>
+      <guid>https://yangguan.me/publication/spil_journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
-      <link>https://idthanm.github.io/publication/integrated/</link>
+      <link>https://yangguan.me/publication/integrated/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/integrated/</guid>
+      <guid>https://yangguan.me/publication/integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
-      <link>https://idthanm.github.io/publication/rf/</link>
+      <link>https://yangguan.me/publication/rf/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/rf/</guid>
+      <guid>https://yangguan.me/publication/rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
+      <link>https://yangguan.me/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
+      <guid>https://yangguan.me/publication/sdsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributional soft actor-critic for mitigating value overestimations</title>
-      <link>https://idthanm.github.io/publication/dsac/</link>
+      <link>https://yangguan.me/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <guid>https://yangguan.me/publication/dsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mixed Policy Gradient</title>
-      <link>https://idthanm.github.io/publication/mpg/</link>
+      <link>https://yangguan.me/publication/mpg/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mpg/</guid>
+      <guid>https://yangguan.me/publication/mpg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>
-      <link>https://idthanm.github.io/publication/spil/</link>
+      <link>https://yangguan.me/publication/spil/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/spil/</guid>
+      <guid>https://yangguan.me/publication/spil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct and indirect reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <link>https://yangguan.me/publication/di_indi/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <guid>https://yangguan.me/publication/di_indi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
+      <link>https://yangguan.me/publication/minmax_dsac/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
+      <guid>https://yangguan.me/publication/minmax_dsac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://idthanm.github.io/publication/ternary/</link>
+      <link>https://yangguan.me/publication/ternary/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ternary/</guid>
+      <guid>https://yangguan.me/publication/ternary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
-      <link>https://idthanm.github.io/publication/hier/</link>
+      <link>https://yangguan.me/publication/hier/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/hier/</guid>
+      <guid>https://yangguan.me/publication/hier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key technique of deep neural network and its applications in autonomous driving</title>
-      <link>https://idthanm.github.io/publication/av_survey/</link>
+      <link>https://yangguan.me/publication/av_survey/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/av_survey/</guid>
+      <guid>https://yangguan.me/publication/av_survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov probabilistic decision making of self-driving cars in highway with random traffic flow: a simulation study</title>
-      <link>https://idthanm.github.io/publication/mpd/</link>
+      <link>https://yangguan.me/publication/mpd/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mpd/</guid>
+      <guid>https://yangguan.me/publication/mpd/</guid>
       <description></description>
     </item>
     

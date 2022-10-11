@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qi Sun | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/qi-sun/</link>
-      <atom:link href="https://idthanm.github.io/authors/qi-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/qi-sun/</link>
+      <atom:link href="https://yangguan.me/authors/qi-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Qi Sun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Qi Sun</title>
-      <link>https://idthanm.github.io/authors/qi-sun/</link>
+      <link>https://yangguan.me/authors/qi-sun/</link>
     </image>
     
     <item>
       <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/idc_itsc/</link>
+      <link>https://yangguan.me/publication/idc_itsc/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/idc_itsc/</guid>
+      <guid>https://yangguan.me/publication/idc_itsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
+      <link>https://yangguan.me/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
+      <guid>https://yangguan.me/publication/sdsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Steadily Learn to Drive with Virtual Memory</title>
-      <link>https://idthanm.github.io/publication/lvm/</link>
+      <link>https://yangguan.me/publication/lvm/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/lvm/</guid>
+      <guid>https://yangguan.me/publication/lvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
-      <link>https://idthanm.github.io/publication/mappo/</link>
+      <link>https://yangguan.me/publication/mappo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mappo/</guid>
+      <guid>https://yangguan.me/publication/mappo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
+      <link>https://yangguan.me/publication/minmax_dsac/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
+      <guid>https://yangguan.me/publication/minmax_dsac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
-      <link>https://idthanm.github.io/publication/hier/</link>
+      <link>https://yangguan.me/publication/hier/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/hier/</guid>
+      <guid>https://yangguan.me/publication/hier/</guid>
       <description></description>
     </item>
     

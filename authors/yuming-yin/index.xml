@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuming Yin | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/yuming-yin/</link>
-      <atom:link href="https://idthanm.github.io/authors/yuming-yin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/yuming-yin/</link>
+      <atom:link href="https://yangguan.me/authors/yuming-yin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuming Yin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Yuming Yin</title>
-      <link>https://idthanm.github.io/authors/yuming-yin/</link>
+      <link>https://yangguan.me/authors/yuming-yin/</link>
     </image>
     
     <item>
       <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
-      <link>https://idthanm.github.io/publication/rf/</link>
+      <link>https://yangguan.me/publication/rf/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/rf/</guid>
+      <guid>https://yangguan.me/publication/rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://idthanm.github.io/publication/ccac/</link>
+      <link>https://yangguan.me/publication/ccac/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ccac/</guid>
+      <guid>https://yangguan.me/publication/ccac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://idthanm.github.io/publication/ternary/</link>
+      <link>https://yangguan.me/publication/ternary/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ternary/</guid>
+      <guid>https://yangguan.me/publication/ternary/</guid>
       <description></description>
     </item>
     

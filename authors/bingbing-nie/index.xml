@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bingbing Nie | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/bingbing-nie/</link>
-      <atom:link href="https://idthanm.github.io/authors/bingbing-nie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/bingbing-nie/</link>
+      <atom:link href="https://yangguan.me/authors/bingbing-nie/index.xml" rel="self" type="application/rss+xml" />
     <description>Bingbing Nie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Bingbing Nie</title>
-      <link>https://idthanm.github.io/authors/bingbing-nie/</link>
+      <link>https://yangguan.me/authors/bingbing-nie/</link>
     </image>
     
     <item>
       <title>Decision-Making under On-Ramp merge Scenarios by Distributional Soft Actor-Critic Algorithm</title>
-      <link>https://idthanm.github.io/publication/sdsac/</link>
+      <link>https://yangguan.me/publication/sdsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/sdsac/</guid>
+      <guid>https://yangguan.me/publication/sdsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</title>
-      <link>https://idthanm.github.io/publication/xinlong/</link>
+      <link>https://yangguan.me/publication/xinlong/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/xinlong/</guid>
+      <guid>https://yangguan.me/publication/xinlong/</guid>
       <description></description>
     </item>
     

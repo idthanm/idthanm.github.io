@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yangang Ren | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/yangang-ren/</link>
-      <atom:link href="https://idthanm.github.io/authors/yangang-ren/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/yangang-ren/</link>
+      <atom:link href="https://yangguan.me/authors/yangang-ren/index.xml" rel="self" type="application/rss+xml" />
     <description>Yangang Ren</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Yangang Ren</title>
-      <link>https://idthanm.github.io/authors/yangang-ren/</link>
+      <link>https://yangguan.me/authors/yangang-ren/</link>
     </image>
     
     <item>
       <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/idc_itsc/</link>
+      <link>https://yangguan.me/publication/idc_itsc/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/idc_itsc/</guid>
+      <guid>https://yangguan.me/publication/idc_itsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
-      <link>https://idthanm.github.io/publication/integrated/</link>
+      <link>https://yangguan.me/publication/integrated/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/integrated/</guid>
+      <guid>https://yangguan.me/publication/integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributional soft actor-critic for mitigating value overestimations</title>
-      <link>https://idthanm.github.io/publication/dsac/</link>
+      <link>https://yangguan.me/publication/dsac/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/dsac/</guid>
+      <guid>https://yangguan.me/publication/dsac/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
-      <link>https://idthanm.github.io/publication/cfb/</link>
+      <link>https://yangguan.me/publication/cfb/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/cfb/</guid>
+      <guid>https://yangguan.me/publication/cfb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct and indirect reinforcement learning</title>
-      <link>https://idthanm.github.io/publication/di_indi/</link>
+      <link>https://yangguan.me/publication/di_indi/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/di_indi/</guid>
+      <guid>https://yangguan.me/publication/di_indi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
-      <link>https://idthanm.github.io/publication/mappo/</link>
+      <link>https://yangguan.me/publication/mappo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/mappo/</guid>
+      <guid>https://yangguan.me/publication/mappo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>https://idthanm.github.io/publication/minmax_dsac/</link>
+      <link>https://yangguan.me/publication/minmax_dsac/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/minmax_dsac/</guid>
+      <guid>https://yangguan.me/publication/minmax_dsac/</guid>
       <description></description>
     </item>
     

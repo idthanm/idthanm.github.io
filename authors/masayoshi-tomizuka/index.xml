@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masayoshi Tomizuka | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/masayoshi-tomizuka/</link>
-      <atom:link href="https://idthanm.github.io/authors/masayoshi-tomizuka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/masayoshi-tomizuka/</link>
+      <atom:link href="https://yangguan.me/authors/masayoshi-tomizuka/index.xml" rel="self" type="application/rss+xml" />
     <description>Masayoshi Tomizuka</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Masayoshi Tomizuka</title>
-      <link>https://idthanm.github.io/authors/masayoshi-tomizuka/</link>
+      <link>https://yangguan.me/authors/masayoshi-tomizuka/</link>
     </image>
     
     <item>
       <title>Enable faster and smoother spatio-temporal trajectory planning for autonomous vehicles in constrained dynamic environment</title>
-      <link>https://idthanm.github.io/publication/xinlong/</link>
+      <link>https://yangguan.me/publication/xinlong/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/xinlong/</guid>
+      <guid>https://yangguan.me/publication/xinlong/</guid>
       <description></description>
     </item>
     

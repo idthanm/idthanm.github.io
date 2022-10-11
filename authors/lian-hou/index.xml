@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lian Hou | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/lian-hou/</link>
-      <atom:link href="https://idthanm.github.io/authors/lian-hou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/lian-hou/</link>
+      <atom:link href="https://yangguan.me/authors/lian-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Lian Hou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Lian Hou</title>
-      <link>https://idthanm.github.io/authors/lian-hou/</link>
+      <link>https://yangguan.me/authors/lian-hou/</link>
     </image>
     
     <item>
       <title>Key technique of deep neural network and its applications in autonomous driving</title>
-      <link>https://idthanm.github.io/publication/av_survey/</link>
+      <link>https://yangguan.me/publication/av_survey/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/av_survey/</guid>
+      <guid>https://yangguan.me/publication/av_survey/</guid>
       <description></description>
     </item>
     

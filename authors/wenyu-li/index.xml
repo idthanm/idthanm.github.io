@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenyu Li | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/wenyu-li/</link>
-      <atom:link href="https://idthanm.github.io/authors/wenyu-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/wenyu-li/</link>
+      <atom:link href="https://yangguan.me/authors/wenyu-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenyu Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Wenyu Li</title>
-      <link>https://idthanm.github.io/authors/wenyu-li/</link>
+      <link>https://yangguan.me/authors/wenyu-li/</link>
     </image>
     
     <item>
       <title>Beyond backpropagate through time: efficient model-based training through time-splitting algorithm</title>
-      <link>https://idthanm.github.io/publication/t3s/</link>
+      <link>https://yangguan.me/publication/t3s/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/t3s/</guid>
+      <guid>https://yangguan.me/publication/t3s/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://idthanm.github.io/publication/ternary/</link>
+      <link>https://yangguan.me/publication/ternary/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/ternary/</guid>
+      <guid>https://yangguan.me/publication/ternary/</guid>
       <description></description>
     </item>
     

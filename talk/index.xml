@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/talk/</link>
-      <atom:link href="https://idthanm.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/talk/</link>
+      <atom:link href="https://yangguan.me/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://idthanm.github.io/talk/</link>
+      <link>https://yangguan.me/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://idthanm.github.io/talk/example/</link>
+      <link>https://yangguan.me/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/talk/example/</guid>
+      <guid>https://yangguan.me/talk/example/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
