@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__Yang Guan__ | YANG GUAN - TSINGHUA</title>
+    <link>https://yangguan.me/authors/__yang-guan__/</link>
+      <atom:link href="https://yangguan.me/authors/__yang-guan__/index.xml" rel="self" type="application/rss+xml" />
+    <description>__Yang Guan__</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yangguan.me/img/icon-192.png</url>
+      <title>__Yang Guan__</title>
+      <link>https://yangguan.me/authors/__yang-guan__/</link>
+    </image>
+    
+    <item>
+      <title>Key Technique of Deep Neural Network and Its Applications in Autonomous Driving</title>
+      <link>https://yangguan.me/publication/av_survey/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/av_survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
