@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Decision and control are two of the core functionalities of high-level automated vehicles. Current mainstream methods, such as functionality decomposition or end-to-end reinforcement learning (RL), either suffer high time complexity or poor interpretability and limited safety performance in real-world complex autonomous driving tasks. In this paper, we present an interpretable and efficient decision and control framework for automated vehicles, which decomposes the driving task into multi-path planning and optimal tracking that are structured hierarchically. First, the multi-path planning is to generate several paths only considering static constraints. Then, the optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, in theory, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately and choose the one with the best tracking performance to follow. More importantly, we propose a model-based reinforcement learning (RL) algorithm, which is served as an approximate constrained OCP solver, to unload the heavy computation by the paradigm of offline training and online application. Specifically, the OCPs for all paths are considered together to construct a multi-task RL problem and then solved offline by our algorithm into value and policy networks, for real-time online path selecting and tracking respectively. We verify our framework in both simulation and the real world. Results show that our method has better online computing efficiency and driving performance including traffic efficiency and safety compared with baseline methods. In addition, it yields great interpretability and adaptability among different driving tasks. The real road test also suggests that it is applicable in complicated traffic scenarios without even tuning.">
+  <meta name="description" content="Decision and control are core functionalities of high-level automated vehicles. Current mainstream methods, such as functional decomposition and end-to-end reinforcement learning (RL), suffer high time complexity or poor interpretability and adaptability on real-world autonomous driving tasks. In this article, we present an interpretable and computationally efficient framework called integrated decision and control (IDC) for automated vehicles, which decomposes the driving task into static path planning and dynamic optimal tracking that are structured hierarchically. First, the static path planning generates several candidate paths only considering static traffic elements. Then, the dynamic optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately, and follow the one with the best tracking performance. To unload the heavy online computation, we propose a model-based RL algorithm that can be served as an approximate-constrained OCP solver. Specifically, the OCPs for all paths are considered together to construct a single complete RL problem and then solved offline in the form of value and policy networks for real-time online path selecting and tracking, respectively. We verify our framework in both simulations and the real world. Results show that compared with baseline methods, IDC has an order of magnitude higher online computing efficiency, as well as better driving performance, including traffic efficiency and safety. In addition, it yields great interpretability and adaptability among different driving scenarios and tasks.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://yangguan.me/publication/integrated/">
@@ -111,14 +111,14 @@
   
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
   <meta property="og:url" content="https://yangguan.me/publication/integrated/">
-  <meta property="og:title" content="Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="Decision and control are two of the core functionalities of high-level automated vehicles. Current mainstream methods, such as functionality decomposition or end-to-end reinforcement learning (RL), either suffer high time complexity or poor interpretability and limited safety performance in real-world complex autonomous driving tasks. In this paper, we present an interpretable and efficient decision and control framework for automated vehicles, which decomposes the driving task into multi-path planning and optimal tracking that are structured hierarchically. First, the multi-path planning is to generate several paths only considering static constraints. Then, the optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, in theory, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately and choose the one with the best tracking performance to follow. More importantly, we propose a model-based reinforcement learning (RL) algorithm, which is served as an approximate constrained OCP solver, to unload the heavy computation by the paradigm of offline training and online application. Specifically, the OCPs for all paths are considered together to construct a multi-task RL problem and then solved offline by our algorithm into value and policy networks, for real-time online path selecting and tracking respectively. We verify our framework in both simulation and the real world. Results show that our method has better online computing efficiency and driving performance including traffic efficiency and safety compared with baseline methods. In addition, it yields great interpretability and adaptability among different driving tasks. The real road test also suggests that it is applicable in complicated traffic scenarios without even tuning."><meta property="og:image" content="https://yangguan.me/publication/integrated/featured.png">
+  <meta property="og:title" content="Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence | YANG GUAN - TSINGHUA">
+  <meta property="og:description" content="Decision and control are core functionalities of high-level automated vehicles. Current mainstream methods, such as functional decomposition and end-to-end reinforcement learning (RL), suffer high time complexity or poor interpretability and adaptability on real-world autonomous driving tasks. In this article, we present an interpretable and computationally efficient framework called integrated decision and control (IDC) for automated vehicles, which decomposes the driving task into static path planning and dynamic optimal tracking that are structured hierarchically. First, the static path planning generates several candidate paths only considering static traffic elements. Then, the dynamic optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately, and follow the one with the best tracking performance. To unload the heavy online computation, we propose a model-based RL algorithm that can be served as an approximate-constrained OCP solver. Specifically, the OCPs for all paths are considered together to construct a single complete RL problem and then solved offline in the form of value and policy networks for real-time online path selecting and tracking, respectively. We verify our framework in both simulations and the real world. Results show that compared with baseline methods, IDC has an order of magnitude higher online computing efficiency, as well as better driving performance, including traffic efficiency and safety. In addition, it yields great interpretability and adaptability among different driving scenarios and tasks."><meta property="og:image" content="https://yangguan.me/publication/integrated/featured.png">
   <meta property="twitter:image" content="https://yangguan.me/publication/integrated/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-03-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-03-18T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-04-19T00:00:00&#43;00:00">
   
 
   
@@ -144,14 +144,14 @@
     "@type": "WebPage",
     "@id": "https://yangguan.me/publication/integrated/"
   },
-  "headline": "Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence",
+  "headline": "Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence",
   
   "image": [
     "https://yangguan.me/publication/integrated/featured.png"
   ],
   
   "datePublished": "2021-03-01T00:00:00Z",
-  "dateModified": "2021-03-18T00:00:00Z",
+  "dateModified": "2022-04-19T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -166,7 +166,7 @@
       "url": "https://yangguan.me/img/icon-512.png"
     }
   },
-  "description": "Decision and control are two of the core functionalities of high-level automated vehicles. Current mainstream methods, such as functionality decomposition or end-to-end reinforcement learning (RL), either suffer high time complexity or poor interpretability and limited safety performance in real-world complex autonomous driving tasks. In this paper, we present an interpretable and efficient decision and control framework for automated vehicles, which decomposes the driving task into multi-path planning and optimal tracking that are structured hierarchically. First, the multi-path planning is to generate several paths only considering static constraints. Then, the optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, in theory, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately and choose the one with the best tracking performance to follow. More importantly, we propose a model-based reinforcement learning (RL) algorithm, which is served as an approximate constrained OCP solver, to unload the heavy computation by the paradigm of offline training and online application. Specifically, the OCPs for all paths are considered together to construct a multi-task RL problem and then solved offline by our algorithm into value and policy networks, for real-time online path selecting and tracking respectively. We verify our framework in both simulation and the real world. Results show that our method has better online computing efficiency and driving performance including traffic efficiency and safety compared with baseline methods. In addition, it yields great interpretability and adaptability among different driving tasks. The real road test also suggests that it is applicable in complicated traffic scenarios without even tuning."
+  "description": "Decision and control are core functionalities of high-level automated vehicles. Current mainstream methods, such as functional decomposition and end-to-end reinforcement learning (RL), suffer high time complexity or poor interpretability and adaptability on real-world autonomous driving tasks. In this article, we present an interpretable and computationally efficient framework called integrated decision and control (IDC) for automated vehicles, which decomposes the driving task into static path planning and dynamic optimal tracking that are structured hierarchically. First, the static path planning generates several candidate paths only considering static traffic elements. Then, the dynamic optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately, and follow the one with the best tracking performance. To unload the heavy online computation, we propose a model-based RL algorithm that can be served as an approximate-constrained OCP solver. Specifically, the OCPs for all paths are considered together to construct a single complete RL problem and then solved offline in the form of value and policy networks for real-time online path selecting and tracking, respectively. We verify our framework in both simulations and the real world. Results show that compared with baseline methods, IDC has an order of magnitude higher online computing efficiency, as well as better driving performance, including traffic efficiency and safety. In addition, it yields great interpretability and adaptability among different driving scenarios and tasks."
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence | YANG GUAN - TSINGHUA</title>
+  <title>Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence | YANG GUAN - TSINGHUA</title>
 
 </head>
 
@@ -502,7 +502,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</h1>
+  <h1>Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence</h1>
 
   
 
@@ -521,7 +521,7 @@
 
 
   
-  <span>Yang Guan</span>, <span>Yangang Ren</span>, <span>Shengbo Eben Li</span>, <span>Haitong Ma</span>, <span>Jingliang Duan</span>, <span>Bo Cheng</span>
+  <span>Yang Guan</span>, <span>Yangang Ren</span>, <span>Qi Sun</span>, <span>Shengbo Eben Li</span>, <span>Haitong Ma</span>, <span>Jingliang Duan</span>, <span>Yifan Dai</span>, <span>Bo Cheng</span>
 
   </div>
   
@@ -533,7 +533,7 @@
     
       
     
-    March 2021
+    April 2022
   </span>
   
 
@@ -586,8 +586,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/abstract/document/9760270" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -657,7 +663,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Decision and control are two of the core functionalities of high-level automated vehicles. Current mainstream methods, such as functionality decomposition or end-to-end reinforcement learning (RL), either suffer high time complexity or poor interpretability and limited safety performance in real-world complex autonomous driving tasks. In this paper, we present an interpretable and efficient decision and control framework for automated vehicles, which decomposes the driving task into multi-path planning and optimal tracking that are structured hierarchically. First, the multi-path planning is to generate several paths only considering static constraints. Then, the optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, in theory, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately and choose the one with the best tracking performance to follow. More importantly, we propose a model-based reinforcement learning (RL) algorithm, which is served as an approximate constrained OCP solver, to unload the heavy computation by the paradigm of offline training and online application. Specifically, the OCPs for all paths are considered together to construct a multi-task RL problem and then solved offline by our algorithm into value and policy networks, for real-time online path selecting and tracking respectively. We verify our framework in both simulation and the real world. Results show that our method has better online computing efficiency and driving performance including traffic efficiency and safety compared with baseline methods. In addition, it yields great interpretability and adaptability among different driving tasks. The real road test also suggests that it is applicable in complicated traffic scenarios without even tuning.</p>
+    <p class="pub-abstract">Decision and control are core functionalities of high-level automated vehicles. Current mainstream methods, such as functional decomposition and end-to-end reinforcement learning (RL), suffer high time complexity or poor interpretability and adaptability on real-world autonomous driving tasks. In this article, we present an interpretable and computationally efficient framework called integrated decision and control (IDC) for automated vehicles, which decomposes the driving task into static path planning and dynamic optimal tracking that are structured hierarchically. First, the static path planning generates several candidate paths only considering static traffic elements. Then, the dynamic optimal tracking is designed to track the optimal path while considering the dynamic obstacles. To that end, we formulate a constrained optimal control problem (OCP) for each candidate path, optimize them separately, and follow the one with the best tracking performance. To unload the heavy online computation, we propose a model-based RL algorithm that can be served as an approximate-constrained OCP solver. Specifically, the OCPs for all paths are considered together to construct a single complete RL problem and then solved offline in the form of value and policy networks for real-time online path selecting and tracking, respectively. We verify our framework in both simulations and the real world. Results show that compared with baseline methods, IDC has an order of magnitude higher online computing efficiency, as well as better driving performance, including traffic efficiency and safety. In addition, it yields great interpretability and adaptability among different driving scenarios and tasks.</p>
     
 
     
@@ -687,7 +693,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>IEEE Cybernetics (under review)</em></div>
+          <div class="col-12 col-md-9">In <em>IEEE Cybernetics</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

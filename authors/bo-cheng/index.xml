@@ -5,7 +5,7 @@
     <link>https://yangguan.me/authors/bo-cheng/</link>
       <atom:link href="https://yangguan.me/authors/bo-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Cheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>Bo Cheng</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
-      <link>https://yangguan.me/publication/idc_itsc/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/idc_itsc/</guid>
+      <title>Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence</title>
+      <link>https://yangguan.me/publication/integrated/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/integrated/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrated Decision and Control: Towards Interpretable and Efficient Driving Intelligence</title>
-      <link>https://yangguan.me/publication/integrated/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/integrated/</guid>
+      <title>Learn collision-free self-driving skills at urban intersections with model-based reinforcement learning</title>
+      <link>https://yangguan.me/publication/idc_itsc/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/idc_itsc/</guid>
       <description></description>
     </item>
     
