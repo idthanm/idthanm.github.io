@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The safety constraints commonly used by existing safe RL methods are defined only on the expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a novel statewise Lagrange function and adopting an additional neural network to approximate the statewise Lagrange multiplier in the constrained RL framework, we manage to obtain the optimal feasible policy which ensures safety for each feasible state, and the safest possible policy for infeasible states. Furthermore, the trained multiplier network can indicate whether a given state is feasible or not. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. We evaluate FAC on both robot locomotive tasks and safe exploration tasks with different safety constraints. Experimental results suggest that most of the trajectories are safe with FAC while only a half with baseline, and the trained multiplier network can serve as the feasibility indicator.">
+  <meta name="description" content="The safety constraints commonly used by existing safe reinforcement learning (RL) methods are defined only on expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first model-free constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a statewise Lagrange function available on RL sampling and adopting an additional neural network to approximate the statewise Lagrange multiplier, we manage to obtain the optimal feasible policy which ensures safety for each feasible state and the safest possible policy for infeasible states. Furthermore, the trained multiplier net can indicate whether a given state is feasible or not through the statewise complementary slackness condition. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. Experimental results on both robot locomotive tasks and safe exploration tasks verify the safety enhancement and feasibility interpretation of the proposed method.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://idthanm.github.io/publication/fac/">
+  <link rel="alternate" hreflang="en-us" href="https://yangguan.me/publication/fac/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://idthanm.github.io/publication/fac/">
+  <link rel="canonical" href="https://yangguan.me/publication/fac/">
 
   
   
@@ -111,15 +111,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
-  <meta property="og:url" content="https://idthanm.github.io/publication/fac/">
+  <meta property="og:url" content="https://yangguan.me/publication/fac/">
   <meta property="og:title" content="Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="The safety constraints commonly used by existing safe RL methods are defined only on the expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a novel statewise Lagrange function and adopting an additional neural network to approximate the statewise Lagrange multiplier in the constrained RL framework, we manage to obtain the optimal feasible policy which ensures safety for each feasible state, and the safest possible policy for infeasible states. Furthermore, the trained multiplier network can indicate whether a given state is feasible or not. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. We evaluate FAC on both robot locomotive tasks and safe exploration tasks with different safety constraints. Experimental results suggest that most of the trajectories are safe with FAC while only a half with baseline, and the trained multiplier network can serve as the feasibility indicator."><meta property="og:image" content="https://idthanm.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://idthanm.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The safety constraints commonly used by existing safe reinforcement learning (RL) methods are defined only on expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first model-free constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a statewise Lagrange function available on RL sampling and adopting an additional neural network to approximate the statewise Lagrange multiplier, we manage to obtain the optimal feasible policy which ensures safety for each feasible state and the safest possible policy for infeasible states. Furthermore, the trained multiplier net can indicate whether a given state is feasible or not through the statewise complementary slackness condition. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. Experimental results on both robot locomotive tasks and safe exploration tasks verify the safety enhancement and feasibility interpretation of the proposed method."><meta property="og:image" content="https://yangguan.me/img/icon-192.png">
+  <meta property="twitter:image" content="https://yangguan.me/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-05-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-03-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-05-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-05-22T00:00:00&#43;00:00">
   
 
   
@@ -143,12 +143,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://idthanm.github.io/publication/fac/"
+    "@id": "https://yangguan.me/publication/fac/"
   },
   "headline": "Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety",
   
-  "datePublished": "2021-05-01T00:00:00Z",
-  "dateModified": "2021-05-01T00:00:00Z",
+  "datePublished": "2021-03-01T00:00:00Z",
+  "dateModified": "2021-05-22T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -160,10 +160,10 @@
     "name": "YANG GUAN - TSINGHUA",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://idthanm.github.io/img/icon-512.png"
+      "url": "https://yangguan.me/img/icon-512.png"
     }
   },
-  "description": "The safety constraints commonly used by existing safe RL methods are defined only on the expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a novel statewise Lagrange function and adopting an additional neural network to approximate the statewise Lagrange multiplier in the constrained RL framework, we manage to obtain the optimal feasible policy which ensures safety for each feasible state, and the safest possible policy for infeasible states. Furthermore, the trained multiplier network can indicate whether a given state is feasible or not. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. We evaluate FAC on both robot locomotive tasks and safe exploration tasks with different safety constraints. Experimental results suggest that most of the trajectories are safe with FAC while only a half with baseline, and the trained multiplier network can serve as the feasibility indicator."
+  "description": "The safety constraints commonly used by existing safe reinforcement learning (RL) methods are defined only on expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first model-free constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a statewise Lagrange function available on RL sampling and adopting an additional neural network to approximate the statewise Lagrange multiplier, we manage to obtain the optimal feasible policy which ensures safety for each feasible state and the safest possible policy for infeasible states. Furthermore, the trained multiplier net can indicate whether a given state is feasible or not through the statewise complementary slackness condition. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. Experimental results on both robot locomotive tasks and safe exploration tasks verify the safety enhancement and feasibility interpretation of the proposed method."
 }
 </script>
 
@@ -296,6 +296,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/media/CV_YangGuan_Tsinghua.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experiences</span></a>
         </li>
 
         
@@ -557,6 +586,13 @@
 </button>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/mahaitongdae/Feasible-Actor-Critic" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -565,6 +601,15 @@
 
 
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/WQxXtqoBINg" target="_blank" rel="noopener">
+  Video
+</a>
 
 
 
@@ -582,7 +627,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The safety constraints commonly used by existing safe RL methods are defined only on the expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a novel statewise Lagrange function and adopting an additional neural network to approximate the statewise Lagrange multiplier in the constrained RL framework, we manage to obtain the optimal feasible policy which ensures safety for each feasible state, and the safest possible policy for infeasible states. Furthermore, the trained multiplier network can indicate whether a given state is feasible or not. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. We evaluate FAC on both robot locomotive tasks and safe exploration tasks with different safety constraints. Experimental results suggest that most of the trajectories are safe with FAC while only a half with baseline, and the trained multiplier network can serve as the feasibility indicator.</p>
+    <p class="pub-abstract">The safety constraints commonly used by existing safe reinforcement learning (RL) methods are defined only on expectation of initial states, but allow each certain state to be unsafe, which is unsatisfying for real-world safety-critical tasks. In this paper, we introduce the feasible actor-critic (FAC) algorithm, which is the first model-free constrained RL method that considers statewise safety, e.g, safety for each initial state. We claim that some states are inherently unsafe no matter what policy we choose, while for other states there exist policies ensuring safety, where we say such states and policies are feasible. By constructing a statewise Lagrange function available on RL sampling and adopting an additional neural network to approximate the statewise Lagrange multiplier, we manage to obtain the optimal feasible policy which ensures safety for each feasible state and the safest possible policy for infeasible states. Furthermore, the trained multiplier net can indicate whether a given state is feasible or not through the statewise complementary slackness condition. We provide theoretical guarantees that FAC outperforms previous expectation-based constrained RL methods in terms of both constraint satisfaction and reward optimization. Experimental results on both robot locomotive tasks and safe exploration tasks verify the safety enhancement and feasibility interpretation of the proposed method.</p>
     
 
     
@@ -594,8 +639,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -612,7 +657,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Journal of Machine Learning Research (under review)</em></div>
+          <div class="col-12 col-md-9">In <em>Arxiv</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

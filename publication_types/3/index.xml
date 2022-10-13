@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/publication_types/3/</link>
-      <atom:link href="https://idthanm.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/publication_types/3/</link>
+      <atom:link href="https://yangguan.me/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy{2021} Yang Guan</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>3</title>
-      <link>https://idthanm.github.io/publication_types/3/</link>
+      <link>https://yangguan.me/publication_types/3/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://idthanm.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/preprint/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety</title>
+      <link>https://yangguan.me/publication/fac/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/fac/</guid>
+      <description></description>
     </item>
     
   </channel>
