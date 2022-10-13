@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance-constrained RL methods usually have a low convergence rate, or only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that compared with previous RL methods, CCAC improves the performance while guaranteeing safety, with a five times faster convergence rate. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control.">
+  <meta name="description" content="Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance constrained RL methods usually learn an either conservative or unsafe policy, and some of them also suffer from a low convergence rate. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability are simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that CCAC achieves good performance while guaranteeing safety, with a five times faster convergence rate compared with model-free RL methods. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://yangguan.me/publication/ccac/">
@@ -113,13 +113,13 @@
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
   <meta property="og:url" content="https://yangguan.me/publication/ccac/">
   <meta property="og:title" content="Model-Based Actor-Critic with Chance Constraint for Stochastic System | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance-constrained RL methods usually have a low convergence rate, or only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that compared with previous RL methods, CCAC improves the performance while guaranteeing safety, with a five times faster convergence rate. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control."><meta property="og:image" content="https://yangguan.me/img/icon-192.png">
+  <meta property="og:description" content="Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance constrained RL methods usually learn an either conservative or unsafe policy, and some of them also suffer from a low convergence rate. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability are simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that CCAC achieves good performance while guaranteeing safety, with a five times faster convergence rate compared with model-free RL methods. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control."><meta property="og:image" content="https://yangguan.me/img/icon-192.png">
   <meta property="twitter:image" content="https://yangguan.me/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-03-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-12-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-12-14T00:00:00&#43;00:00">
   
 
   
@@ -148,7 +148,7 @@
   "headline": "Model-Based Actor-Critic with Chance Constraint for Stochastic System",
   
   "datePublished": "2021-03-01T00:00:00Z",
-  "dateModified": "2020-12-01T00:00:00Z",
+  "dateModified": "2021-12-14T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -163,7 +163,7 @@
       "url": "https://yangguan.me/img/icon-512.png"
     }
   },
-  "description": "Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance-constrained RL methods usually have a low convergence rate, or only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that compared with previous RL methods, CCAC improves the performance while guaranteeing safety, with a five times faster convergence rate. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control."
+  "description": "Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance constrained RL methods usually learn an either conservative or unsafe policy, and some of them also suffer from a low convergence rate. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability are simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that CCAC achieves good performance while guaranteeing safety, with a five times faster convergence rate compared with model-free RL methods. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control."
 }
 </script>
 
@@ -522,7 +522,7 @@
     
       
     
-    December 2020
+    December 2021
   </span>
   
 
@@ -594,6 +594,18 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/document/9683748" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/CDC45484.2021.9683748" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 
@@ -609,7 +621,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance-constrained RL methods usually have a low convergence rate, or only learn a conservative policy. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability is simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that compared with previous RL methods, CCAC improves the performance while guaranteeing safety, with a five times faster convergence rate. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control.</p>
+    <p class="pub-abstract">Safety is essential for reinforcement learning (RL) applied in real-world situations. Chance constraints are suitable to represent the safety requirements in stochastic systems. Previous chance constrained RL methods usually learn an either conservative or unsafe policy, and some of them also suffer from a low convergence rate. In this paper, we propose a model-based chance constrained actor-critic (CCAC) algorithm which can efficiently learn a safe and non-conservative policy. Different from existing methods that optimize a conservative lower bound, CCAC directly solves the original chance constrained problems, where the objective function and safe probability are simultaneously optimized with adaptive weights. In order to improve the convergence rate, CCAC utilizes the gradient of dynamic model to accelerate policy optimization. The effectiveness of CCAC is demonstrated by a stochastic car-following task. Experiments indicate that CCAC achieves good performance while guaranteeing safety, with a five times faster convergence rate compared with model-free RL methods. It also has 100 times higher online computation efficiency than traditional safety techniques such as stochastic model predictive control.</p>
     
 
     

@@ -5,12 +5,20 @@
     <link>https://yangguan.me/authors/baiyu-peng/</link>
       <atom:link href="https://yangguan.me/authors/baiyu-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Baiyu Peng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>Baiyu Peng</title>
       <link>https://yangguan.me/authors/baiyu-peng/</link>
     </image>
+    
+    <item>
+      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
+      <link>https://yangguan.me/publication/ccac/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/ccac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
@@ -25,14 +33,6 @@
       <link>https://yangguan.me/publication/spil/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://yangguan.me/publication/spil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://yangguan.me/publication/ccac/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ccac/</guid>
       <description></description>
     </item>
     

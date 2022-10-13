@@ -55,6 +55,14 @@
     </item>
     
     <item>
+      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
+      <link>https://yangguan.me/publication/ccac/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/ccac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learn Collision-Free Self-Driving Skills at Urban Intersections with Model-Based Reinforcement Learning</title>
       <link>https://yangguan.me/publication/idc_itsc/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
@@ -138,15 +146,7 @@
     </item>
     
     <item>
-      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://yangguan.me/publication/ccac/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ccac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direct and indirect reinforcement learning</title>
+      <title>Direct and Indirect Reinforcement Learning</title>
       <link>https://yangguan.me/publication/di_indi/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://yangguan.me/publication/di_indi/</guid>

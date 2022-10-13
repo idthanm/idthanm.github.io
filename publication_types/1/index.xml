@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
+      <link>https://yangguan.me/publication/ccac/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/ccac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learn Collision-Free Self-Driving Skills at Urban Intersections with Model-Based Reinforcement Learning</title>
       <link>https://yangguan.me/publication/idc_itsc/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
@@ -62,26 +70,10 @@
     </item>
     
     <item>
-      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://yangguan.me/publication/ccac/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ccac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
       <link>https://yangguan.me/publication/minmax_dsac/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://yangguan.me/publication/minmax_dsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://yangguan.me/publication/ternary/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ternary/</guid>
       <description></description>
     </item>
     
