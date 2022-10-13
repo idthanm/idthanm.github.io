@@ -5,12 +5,20 @@
     <link>https://yangguan.me/authors/jianyu-chen/</link>
       <atom:link href="https://yangguan.me/authors/jianyu-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianyu Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>Jianyu Chen</title>
       <link>https://yangguan.me/authors/jianyu-chen/</link>
     </image>
+    
+    <item>
+      <title>Self-learning Decision and Control for Highly Automated Vehicles</title>
+      <link>https://yangguan.me/publication/book_chapter_self/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/book_chapter_self/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
