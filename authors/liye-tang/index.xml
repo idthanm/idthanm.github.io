@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bo Zhang | YANG GUAN - TSINGHUA</title>
-    <link>https://yangguan.me/authors/bo-zhang/</link>
-      <atom:link href="https://yangguan.me/authors/bo-zhang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bo Zhang</description>
+    <title>Liye Tang* | YANG GUAN - TSINGHUA</title>
+    <link>https://yangguan.me/authors/liye-tang/</link>
+      <atom:link href="https://yangguan.me/authors/liye-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liye Tang*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
-      <title>Bo Zhang</title>
-      <link>https://yangguan.me/authors/bo-zhang/</link>
+      <title>Liye Tang*</title>
+      <link>https://yangguan.me/authors/liye-tang/</link>
     </image>
     
     <item>
@@ -17,15 +17,6 @@
       <link>https://yangguan.me/publication/idc_mpg/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://yangguan.me/publication/idc_mpg/</guid>
-      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Beyond Backpropagate Through Time: Efficient Model-Based Training Through Time-Splitting</title>
-      <link>https://yangguan.me/publication/t3s/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/t3s/</guid>
       <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
 </description>
     </item>
