@@ -11,10 +11,10 @@
     <loc>https://yangguan.me/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yangguan.me/authors/admin/</loc>
+    <loc>https://yangguan.me/publication_types/7/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yangguan.me/publication_types/7/</loc>
+    <loc>https://yangguan.me/authors/__yang-guan__/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yangguan.me/authors/</loc>
@@ -51,9 +51,6 @@
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yangguan.me/authors/shengbo-eben-li/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yangguan.me/authors/yang-guan/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yangguan.me/authors/yangang-ren/</loc>
@@ -266,9 +263,6 @@
     <loc>https://yangguan.me/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yangguan.me/authors/__yang-guan__/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yangguan.me/authors/hongbo-gao/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -289,6 +283,9 @@
   </url><url>
     <loc>https://yangguan.me/authors/yu-wang/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yangguan.me/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yangguan.me/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>

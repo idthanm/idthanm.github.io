@@ -5,156 +5,12 @@
     <link>https://yangguan.me/authors/admin/</link>
       <atom:link href="https://yangguan.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>YANG GUAN - TSINGHUA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>YANG GUAN - TSINGHUA</title>
       <link>https://yangguan.me/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Integrated Decision and Control of Automated Vehicles and Its Training by Mixed Reinforcement Learning</title>
-      <link>https://yangguan.me/publication/thesis/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
-      <link>https://yangguan.me/publication/spil_journal/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/spil_journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrated Decision and Control: Toward Interpretable and Efficient Driving Intelligence</title>
-      <link>https://yangguan.me/publication/integrated/</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/integrated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrated Decision and Control at Multi-Lane Intersections with Mixed Traffic Flow</title>
-      <link>https://yangguan.me/publication/idc_mix/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/idc_mix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://yangguan.me/publication/ccac/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ccac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function</title>
-      <link>https://yangguan.me/publication/cfb/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/cfb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios</title>
-      <link>https://yangguan.me/publication/duan2021encoding/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/duan2021encoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Separated Proportional-Integral Lagrangian for Chance Constrained Reinforcement Learning</title>
-      <link>https://yangguan.me/publication/spil/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/spil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feasible Actor-Critic: Constrained Reinforcement Learning for Ensuring Statewise Safety</title>
-      <link>https://yangguan.me/publication/fac/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/fac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</title>
-      <link>https://yangguan.me/publication/rf/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/rf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed Policy Gradient</title>
-      <link>https://yangguan.me/publication/mpg/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/mpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steadily Learn to Drive with Virtual Memory</title>
-      <link>https://yangguan.me/publication/lvm/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/lvm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direct and Indirect Reinforcement Learning</title>
-      <link>https://yangguan.me/publication/di_indi/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/di_indi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Centralized Cooperation for Connected and Automated Vehicles at Intersections by Proximal Policy Optimization</title>
-      <link>https://yangguan.me/publication/mappo/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/mappo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
-      <link>https://yangguan.me/publication/minmax_dsac/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/minmax_dsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ternary Policy Iteration Algorithm for Nonlinear Robust Control</title>
-      <link>https://yangguan.me/publication/ternary/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ternary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data</title>
-      <link>https://yangguan.me/publication/hier/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/hier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enable Faster and Smoother Spatio-Temporal Trajectory Planning for Autonomous Vehicles in Constrained Dynamic Environment</title>
-      <link>https://yangguan.me/publication/xinlong/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/xinlong/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -193,14 +49,6 @@ date: 2019-09-01
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Markov Probabilistic Decision Making of Self-Driving Cars in Highway with Random Traffic Flow: A Simulation Study</title>
-      <link>https://yangguan.me/publication/mpd/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/mpd/</guid>
-      <description></description>
     </item>
     
     <item>
