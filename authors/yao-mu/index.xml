@@ -5,7 +5,7 @@
     <link>https://yangguan.me/authors/yao-mu/</link>
       <atom:link href="https://yangguan.me/authors/yao-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Mu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yangguan.me/img/icon-192.png</url>
       <title>Yao Mu</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
-      <link>https://yangguan.me/publication/ccac/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/ccac/</guid>
+      <title>Model-Based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
+      <link>https://yangguan.me/publication/spil_journal/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/spil_journal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
-      <link>https://yangguan.me/publication/spil_journal/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/spil_journal/</guid>
+      <title>Model-Based Actor-Critic with Chance Constraint for Stochastic System</title>
+      <link>https://yangguan.me/publication/ccac/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/ccac/</guid>
       <description></description>
     </item>
     
