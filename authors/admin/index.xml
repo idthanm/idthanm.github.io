@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>Learn Collision-Free Self-Driving Skills at Urban Intersections with Model-Based Reinforcement Learning</title>
-      <link>https://yangguan.me/publication/idc_itsc/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://yangguan.me/publication/idc_itsc/</guid>
-      <description>&lt;p&gt;(* indicates equal contribution.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Model-based Chance-Constrained Reinforcement Learning via Separated Proportional-Integral Lagrangian</title>
       <link>https://yangguan.me/publication/spil_journal/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -112,7 +103,7 @@
     <item>
       <title>Improving Generalization of Reinforcement Learning with Minimax Distributional Soft Actor-Critic</title>
       <link>https://yangguan.me/publication/minmax_dsac/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://yangguan.me/publication/minmax_dsac/</guid>
       <description></description>
     </item>
