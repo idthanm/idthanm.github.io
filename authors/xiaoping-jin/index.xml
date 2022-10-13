@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoping Jin | YANG GUAN - TSINGHUA</title>
-    <link>https://idthanm.github.io/authors/xiaoping-jin/</link>
-      <atom:link href="https://idthanm.github.io/authors/xiaoping-jin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yangguan.me/authors/xiaoping-jin/</link>
+      <atom:link href="https://yangguan.me/authors/xiaoping-jin/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoping Jin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://idthanm.github.io/img/icon-192.png</url>
+      <url>https://yangguan.me/img/icon-192.png</url>
       <title>Xiaoping Jin</title>
-      <link>https://idthanm.github.io/authors/xiaoping-jin/</link>
+      <link>https://yangguan.me/authors/xiaoping-jin/</link>
     </image>
     
     <item>
       <title>Integrated Decision and Control at Multi-Lane Intersections with Mixed Traffic Flow</title>
-      <link>https://idthanm.github.io/publication/idc_mix/</link>
+      <link>https://yangguan.me/publication/idc_mix/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://idthanm.github.io/publication/idc_mix/</guid>
+      <guid>https://yangguan.me/publication/idc_mix/</guid>
       <description></description>
     </item>
     
