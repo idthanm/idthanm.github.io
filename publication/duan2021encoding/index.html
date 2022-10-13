@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="State estimation is critical to control systems, especially when the states cannot be directly measured. This paper presents an approximate optimal filter, which enables to use policy iteration technique to obtain the steady-state gain in linear Gaussian time-invariant systems. This design transforms the optimal filtering problem with minimum mean square error into an optimal control problem, called Approximate Optimal Filtering (AOF) problem. The equivalence holds given certain conditions about initial state distributions and policy formats, in which the system state is the estimation error, control input is the filter gain, and control objective function is the accumulated estimation error. We present a policy iteration algorithm to solve the AOF problem in steady-state. A classic vehicle state estimation problem finally evaluates the approximate filter. The results show that the policy converges to the steady-state Kalman gain, and its accuracy is within 2 %.">
+  <meta name="description" content="In this paper, we propose a new reinforcement learning (RL) algorithm, called encoding distributional soft actor-critic (E-DSAC), for decision-making in autonomous driving. Unlike existing RL-based decision-making methods, E-DSAC is suitable for situations where the number of surrounding vehicles is variable and eliminates the requirement for manually pre-designed sorting rules, resulting in higher policy performance and generality. We first develop an encoding distributional policy iteration (DPI) framework by embedding a permutation invariant module, which employs a feature neural network (NN) to encode the indicators of each vehicle, in the distributional RL framework. The proposed DPI framework is proved to exhibit important properties in terms of convergence and global optimality. Next, based on the developed encoding DPI framework, we propose the E-DSAC algorithm by adding the gradient-based update rule of the feature NN to the policy evaluation process of the DSAC algorithm. Then, the multi-lane driving task and the corresponding reward function are designed to verify the effectiveness of the proposed algorithm. Results show that the policy learned by E-DSAC can realize efficient, smooth, and relatively safe autonomous driving in the designed scenario. And the final policy performance learned by E-DSAC is about three times that of DSAC. Furthermore, its effectiveness has also been verified in real vehicle experiments.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yangguan.me/publication/rf/">
+  <link rel="alternate" hreflang="en-us" href="https://yangguan.me/publication/duan2021encoding/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://yangguan.me/publication/rf/">
+  <link rel="canonical" href="https://yangguan.me/publication/duan2021encoding/">
 
   
   
@@ -111,15 +111,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="YANG GUAN - TSINGHUA">
-  <meta property="og:url" content="https://yangguan.me/publication/rf/">
-  <meta property="og:title" content="Approximate Optimal Filter for Linear Gaussian Time-invariant Systems | YANG GUAN - TSINGHUA">
-  <meta property="og:description" content="State estimation is critical to control systems, especially when the states cannot be directly measured. This paper presents an approximate optimal filter, which enables to use policy iteration technique to obtain the steady-state gain in linear Gaussian time-invariant systems. This design transforms the optimal filtering problem with minimum mean square error into an optimal control problem, called Approximate Optimal Filtering (AOF) problem. The equivalence holds given certain conditions about initial state distributions and policy formats, in which the system state is the estimation error, control input is the filter gain, and control objective function is the accumulated estimation error. We present a policy iteration algorithm to solve the AOF problem in steady-state. A classic vehicle state estimation problem finally evaluates the approximate filter. The results show that the policy converges to the steady-state Kalman gain, and its accuracy is within 2 %."><meta property="og:image" content="https://yangguan.me/img/icon-192.png">
+  <meta property="og:url" content="https://yangguan.me/publication/duan2021encoding/">
+  <meta property="og:title" content="Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios | YANG GUAN - TSINGHUA">
+  <meta property="og:description" content="In this paper, we propose a new reinforcement learning (RL) algorithm, called encoding distributional soft actor-critic (E-DSAC), for decision-making in autonomous driving. Unlike existing RL-based decision-making methods, E-DSAC is suitable for situations where the number of surrounding vehicles is variable and eliminates the requirement for manually pre-designed sorting rules, resulting in higher policy performance and generality. We first develop an encoding distributional policy iteration (DPI) framework by embedding a permutation invariant module, which employs a feature neural network (NN) to encode the indicators of each vehicle, in the distributional RL framework. The proposed DPI framework is proved to exhibit important properties in terms of convergence and global optimality. Next, based on the developed encoding DPI framework, we propose the E-DSAC algorithm by adding the gradient-based update rule of the feature NN to the policy evaluation process of the DSAC algorithm. Then, the multi-lane driving task and the corresponding reward function are designed to verify the effectiveness of the proposed algorithm. Results show that the policy learned by E-DSAC can realize efficient, smooth, and relatively safe autonomous driving in the designed scenario. And the final policy performance learned by E-DSAC is about three times that of DSAC. Furthermore, its effectiveness has also been verified in real vehicle experiments."><meta property="og:image" content="https://yangguan.me/img/icon-192.png">
   <meta property="twitter:image" content="https://yangguan.me/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-03-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-03-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-09-12T00:00:00&#43;00:00">
   
 
   
@@ -143,16 +143,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://yangguan.me/publication/rf/"
+    "@id": "https://yangguan.me/publication/duan2021encoding/"
   },
-  "headline": "Approximate Optimal Filter for Linear Gaussian Time-invariant Systems",
+  "headline": "Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios",
   
   "datePublished": "2021-03-01T00:00:00Z",
-  "dateModified": "2021-03-01T00:00:00Z",
+  "dateModified": "2021-09-12T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Kaiming Tang"
+    "name": "Jingliang Duan"
   },
   
   "publisher": {
@@ -163,7 +163,7 @@
       "url": "https://yangguan.me/img/icon-512.png"
     }
   },
-  "description": "State estimation is critical to control systems, especially when the states cannot be directly measured. This paper presents an approximate optimal filter, which enables to use policy iteration technique to obtain the steady-state gain in linear Gaussian time-invariant systems. This design transforms the optimal filtering problem with minimum mean square error into an optimal control problem, called Approximate Optimal Filtering (AOF) problem. The equivalence holds given certain conditions about initial state distributions and policy formats, in which the system state is the estimation error, control input is the filter gain, and control objective function is the accumulated estimation error. We present a policy iteration algorithm to solve the AOF problem in steady-state. A classic vehicle state estimation problem finally evaluates the approximate filter. The results show that the policy converges to the steady-state Kalman gain, and its accuracy is within 2 %."
+  "description": "In this paper, we propose a new reinforcement learning (RL) algorithm, called encoding distributional soft actor-critic (E-DSAC), for decision-making in autonomous driving. Unlike existing RL-based decision-making methods, E-DSAC is suitable for situations where the number of surrounding vehicles is variable and eliminates the requirement for manually pre-designed sorting rules, resulting in higher policy performance and generality. We first develop an encoding distributional policy iteration (DPI) framework by embedding a permutation invariant module, which employs a feature neural network (NN) to encode the indicators of each vehicle, in the distributional RL framework. The proposed DPI framework is proved to exhibit important properties in terms of convergence and global optimality. Next, based on the developed encoding DPI framework, we propose the E-DSAC algorithm by adding the gradient-based update rule of the feature NN to the policy evaluation process of the DSAC algorithm. Then, the multi-lane driving task and the corresponding reward function are designed to verify the effectiveness of the proposed algorithm. Results show that the policy learned by E-DSAC can realize efficient, smooth, and relatively safe autonomous driving in the designed scenario. And the final policy performance learned by E-DSAC is about three times that of DSAC. Furthermore, its effectiveness has also been verified in real vehicle experiments."
 }
 </script>
 
@@ -181,7 +181,7 @@
 
 
 
-  <title>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems | YANG GUAN - TSINGHUA</title>
+  <title>Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios | YANG GUAN - TSINGHUA</title>
 
 </head>
 
@@ -490,7 +490,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Approximate Optimal Filter for Linear Gaussian Time-invariant Systems</h1>
+  <h1>Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios</h1>
 
   
 
@@ -510,7 +510,7 @@
 
 
   
-  <span>Kaiming Tang</span>, <span>Shengbo Eben Li</span>, <span>Yuming Yin</span>, <span>Yang Guan</span>, <span>Jingliang Duan</span>, <span>Wenhan Cao</span>, <span>Jie Li</span>
+  <span>Jingliang Duan</span>, <span>Yangang Ren</span>, <span>Fawang Zhang</span>, <span>Yang Guan</span>, <span>Dongjie Yu</span>, <span>Shengbo Eben Li</span>, <span>Bo Cheng</span>, <span>Lin Zhao</span>
 
   </div>
   
@@ -522,7 +522,7 @@
     
       
     
-    March 2021
+    September 2021
   </span>
   
 
@@ -567,7 +567,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2103.05505.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2109.05540" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -581,7 +581,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/rf/cite.bib">
+        data-filename="/publication/duan2021encoding/cite.bib">
   Cite
 </button>
 
@@ -611,7 +611,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">State estimation is critical to control systems, especially when the states cannot be directly measured. This paper presents an approximate optimal filter, which enables to use policy iteration technique to obtain the steady-state gain in linear Gaussian time-invariant systems. This design transforms the optimal filtering problem with minimum mean square error into an optimal control problem, called Approximate Optimal Filtering (AOF) problem. The equivalence holds given certain conditions about initial state distributions and policy formats, in which the system state is the estimation error, control input is the filter gain, and control objective function is the accumulated estimation error. We present a policy iteration algorithm to solve the AOF problem in steady-state. A classic vehicle state estimation problem finally evaluates the approximate filter. The results show that the policy converges to the steady-state Kalman gain, and its accuracy is within 2 %.</p>
+    <p class="pub-abstract">In this paper, we propose a new reinforcement learning (RL) algorithm, called encoding distributional soft actor-critic (E-DSAC), for decision-making in autonomous driving. Unlike existing RL-based decision-making methods, E-DSAC is suitable for situations where the number of surrounding vehicles is variable and eliminates the requirement for manually pre-designed sorting rules, resulting in higher policy performance and generality. We first develop an encoding distributional policy iteration (DPI) framework by embedding a permutation invariant module, which employs a feature neural network (NN) to encode the indicators of each vehicle, in the distributional RL framework. The proposed DPI framework is proved to exhibit important properties in terms of convergence and global optimality. Next, based on the developed encoding DPI framework, we propose the E-DSAC algorithm by adding the gradient-based update rule of the feature NN to the policy evaluation process of the DSAC algorithm. Then, the multi-lane driving task and the corresponding reward function are designed to verify the effectiveness of the proposed algorithm. Results show that the policy learned by E-DSAC can realize efficient, smooth, and relatively safe autonomous driving in the designed scenario. And the final policy performance learned by E-DSAC is about three times that of DSAC. Furthermore, its effectiveness has also been verified in real vehicle experiments.</p>
     
 
     
@@ -623,8 +623,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -641,7 +641,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Arxiv</em></div>
+          <div class="col-12 col-md-9">In <em>IEEE Transactions on Neural Networks and Learning Systems (under review)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

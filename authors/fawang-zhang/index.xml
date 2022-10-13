@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fawang Zhang | YANG GUAN - TSINGHUA</title>
+    <link>https://yangguan.me/authors/fawang-zhang/</link>
+      <atom:link href="https://yangguan.me/authors/fawang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fawang Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yangguan.me/img/icon-192.png</url>
+      <title>Fawang Zhang</title>
+      <link>https://yangguan.me/authors/fawang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Encoding Distributional Soft Actor-Critic for Autonomous Driving in Multi-lane Scenarios</title>
+      <link>https://yangguan.me/publication/duan2021encoding/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yangguan.me/publication/duan2021encoding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
